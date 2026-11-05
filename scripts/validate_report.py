@@ -6,10 +6,10 @@ Fails on broken ranks, truncated team names, duplicate teams or missing rows.
 import re, sys, pathlib, html
 
 def validate(raw):
-    section = re.search(r'<section\\b[^>]*\\bid=["\\\']rankings["\\\'][^>]*>(.*?)</section>', raw, re.I | re.S)
+    section = re.search(r'<section[^>]*id="rankings"[^>]*>(.*?)</section>', raw, re.I | re.S)
     if not section:
         raise ValueError("Missing rankings section")
-    table = re.search(r'<table\\b[^>]*\\bid=["\\\']ap-top25["\\\'][^>]*>(.*?)</table>', section.group(1), re.I | re.S)
+    table = re.search(r'<table[^>]*id="ap-top25"[^>]*>(.*?)</table>', section.group(1), re.I | re.S)
     if not table:
         raise ValueError("Missing labeled AP Top 25 table")
     body = re.search(r'<tbody[^>]*>(.*?)</tbody>', table.group(1), re.I | re.S)
