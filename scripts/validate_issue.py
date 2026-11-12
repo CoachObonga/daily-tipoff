@@ -28,7 +28,7 @@ def plain(markup):
     return unescape(re.sub(r"<[^>]+>", "", markup)).strip()
 
 def extract_table(html, table_id):
-    hit = re.search(r'<table\b[^>]*\bid=["\\']'+re.escape(table_id)+r'["\\'][^>]*>(.*?)</table>',html,re.I|re.S)
+    hit = re.search(r'<table\b[^>]*\bid\s*=\s*[^ >]*'+re.escape(table_id)+r'[^>]*>(.*?)</table>', html, re.I | re.S)
     if not hit: raise ValueError("Missing table: " + table_id)
     return hit.group(1)
 
@@ -49,7 +49,7 @@ def validate(html, manifest):
     require(manifest.get("issue_date","") in html,"Issue date missing")
     require(manifest.get("results_date","") in html or "Results from" in html,"Results date missing")
     for sec in SECTIONS:
-        require(bool(re.search(r'\bid=["\\']'+sec+r'["\\']',html,re.I)),f"Missing fixed section id: {sec}")
+        require(bool(re.search(r'id\s*=\s*[^ >]*'+re.escape(sec)+r'[^>]*', html, re.I)), f"Missing fixed section id: {sec}")
 
     try:
         poll=extract_table(html,"ap-top25")
