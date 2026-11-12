@@ -28,15 +28,15 @@ def plain(markup):
     return unescape(re.sub(r"<[^>]+>", "", markup)).strip()
 
 def extract_table(html, table_id):
-    hit = re.search(r'<table\\b[^>]*\\bid=["\\\']'+re.escape(table_id)+r'["\\\'][^>]*>(.*?)</table>',html,re.I|re.S)
+    hit = re.search(r'<table\b[^>]*\bid=["\\']'+re.escape(table_id)+r'["\\'][^>]*>(.*?)</table>',html,re.I|re.S)
     if not hit: raise ValueError("Missing table: " + table_id)
     return hit.group(1)
 
 def cells(row, tag):
-    return [plain(x) for x in re.findall(r"<"+tag+r"\\b[^>]*>(.*?)</"+tag+r">",row,re.I|re.S)]
+    return [plain(x) for x in re.findall(r"<"+tag+r"\b[^>]*>(.*?)</"+tag+r">",row,re.I|re.S)]
 
 def rows(markup):
-    return re.findall(r"<tr\\b[^>]*>(.*?)</tr>",markup,re.I|re.S)
+    return re.findall(r"<tr\b[^>]*>(.*?)</tr>",markup,re.I|re.S)
 
 def validate(html, manifest):
     errors=[]
@@ -45,11 +45,11 @@ def validate(html, manifest):
 
     require("THE DAILY TIP-OFF" in plain(html).upper(),"Missing publication title")
     number=str(manifest.get("issue_number",""))
-    require(bool(re.search(r"ISSUE\\s*0*"+re.escape(number)+r"\\b",plain(html),re.I)),"Issue number missing or wrong")
+    require(bool(re.search(r"ISSUE\s*0*"+re.escape(number)+r"\b",plain(html),re.I)),"Issue number missing or wrong")
     require(manifest.get("issue_date","") in html,"Issue date missing")
     require(manifest.get("results_date","") in html or "Results from" in html,"Results date missing")
     for sec in SECTIONS:
-        require(bool(re.search(r'\\bid=["\\\']'+sec+r'["\\\']',html,re.I)),f"Missing fixed section id: {sec}")
+        require(bool(re.search(r'\bid=["\\']'+sec+r'["\\']',html,re.I)),f"Missing fixed section id: {sec}")
 
     try:
         poll=extract_table(html,"ap-top25")
@@ -66,7 +66,7 @@ def validate(html, manifest):
             require(len(entry[1])>=3,f"AP team at rank {i} appears truncated")
             team_names.append(entry[1].casefold())
             result=entry[4].strip()
-            require(result=="Idle" or bool(re.search(r"^[WL]\\s+(?:vs\\.?|at)\\s+\\S.{2,}\\s+\\d+\\s*[-–]\\s*\\d+",result,re.I)),
+            require(result=="Idle" or bool(re.search(r"^[WL]\s+(?:vs\.?|at)\s+\S.{2,}\s+\d+\s*[-–]\s*\d+",result,re.I)),
                 f"AP result at rank {i} missing opponent or score: {result!r}")
         require(len(team_names)==len(set(team_names)),"Duplicate AP team")
         require(manifest.get("latest_poll_date","") in html,"Poll publication date absent")
@@ -91,7 +91,7 @@ def validate(html, manifest):
     require(len(tx)==len(set(tx)),"Duplicate look-ahead expected matchup")
     require(set(tx)==set(tr),f"Look Ahead mismatch: missing={sorted(set(tx)-set(tr))}, extra={sorted(set(tr)-set(tx))}")
     require("Where to Watch" in html,"Look Ahead broadcast column missing")
-    if errors: raise ValueError("\\n".join(errors))
+    if errors: raise ValueError("\n".join(errors))
     return len(ek), len(tx)
 
 if __name__=="__main__":
@@ -102,6 +102,6 @@ if __name__=="__main__":
     try:
         games,look=validate(h,m)
     except ValueError as e:
-        print("FAIL: Daily Tip-Off publication quality gate\\n"+str(e),file=sys.stderr)
+        print("FAIL: Daily Tip-Off publication quality gate\n"+str(e),file=sys.stderr)
         sys.exit(1)
     print(f"PASS: fixed layout, AP25, {games} reconciled results and {look} Look Ahead games")
