@@ -1,0 +1,896 @@
+{
+  "issue_date": "2026-11-14",
+  "results_date": "2026-11-13",
+  "issue_number": 12,
+  "latest_poll_date": "2026-11-09",
+  "expected_games": [
+    {
+      "key": "2026-11-13|Viterbo|Green Bay",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|West Florida|Cleveland State",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Texas A&M-Corpus Christi|Florida State",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|North Alabama|Miami (FL)",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Georgetown|Clemson",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Bryant|Rutgers",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Pittsburgh|Butler",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Columbia|Bucknell",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Appalachian State|Charlotte",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Kentucky State|Eastern Kentucky",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Chattanooga|Elon",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Merrimack|Florida",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|FIU|Florida Gulf Coast",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|LIU|Fordham",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Harvard|George Washington",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Iona|Hofstra",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Sam Houston|Illinois",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Northern Arizona|Kentucky",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Marist|Lehigh",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Northern Iowa|Michigan State",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Troy|NC State",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Georgia|North Carolina",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Yale|Northeastern",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Ohio|Purdue",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Tennessee State|Tennessee",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Champion Christian|UT Martin",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Prairie View A&M|Vanderbilt",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Mount St. Mary's|Virginia Tech",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Mary Baldwin|VMI",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|South Dakota|Drake",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|North Carolina Central|Liberty",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Southeast Missouri State|Middle Tennessee",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Ohio State|UConn",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Central Arkansas|Arkansas",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|SIU Edwardsville|Duke",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|College of Biblical Studies|Houston Christian",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Virginia|Maryland",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Texas Southern|Murray State",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Illinois State|North Dakota State",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Fairleigh Dickinson|Oklahoma",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Wright State|Samford",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Alcorn State|Tarleton State",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Milwaukee|TCU",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Southern Miss|Texas State",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Georgia Southern|UCF",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Lindenwood|Omaha",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Seton Hall|Alabama",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|UL Monroe|Arizona State",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Arizona|Auburn",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Corban|Eastern Washington",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Cal Poly|Idaho",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Xavier|Mississippi State",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|DePaul|Northwestern",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Ball State|SMU",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Stanford|UNLV",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Mississippi Valley State|Oregon State",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Chicago State|San Diego",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|East Texas A&M|Portland",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|UIC|Saint Mary's",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|UC San Diego|Utah State",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    },
+    {
+      "key": "2026-11-13|Arkansas-Pine Bluff|California Baptist",
+      "status": "Final",
+      "source": "https://watchwhere.us/college-basketball"
+    }
+  ],
+  "reported_games": [
+    {
+      "key": "2026-11-13|Viterbo|Green Bay",
+      "away_points": 46,
+      "home_points": 66,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|West Florida|Cleveland State",
+      "away_points": 67,
+      "home_points": 69,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Texas A&M-Corpus Christi|Florida State",
+      "away_points": 60,
+      "home_points": 84,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|North Alabama|Miami (FL)",
+      "away_points": 52,
+      "home_points": 94,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Georgetown|Clemson",
+      "away_points": 85,
+      "home_points": 78,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Bryant|Rutgers",
+      "away_points": 51,
+      "home_points": 72,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Pittsburgh|Butler",
+      "away_points": 76,
+      "home_points": 64,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Columbia|Bucknell",
+      "away_points": 77,
+      "home_points": 59,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Appalachian State|Charlotte",
+      "away_points": 66,
+      "home_points": 60,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Kentucky State|Eastern Kentucky",
+      "away_points": 59,
+      "home_points": 106,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Chattanooga|Elon",
+      "away_points": 77,
+      "home_points": 70,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Merrimack|Florida",
+      "away_points": 54,
+      "home_points": 83,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|FIU|Florida Gulf Coast",
+      "away_points": 89,
+      "home_points": 80,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|LIU|Fordham",
+      "away_points": 58,
+      "home_points": 80,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Harvard|George Washington",
+      "away_points": 57,
+      "home_points": 85,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Iona|Hofstra",
+      "away_points": 59,
+      "home_points": 62,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Sam Houston|Illinois",
+      "away_points": 86,
+      "home_points": 108,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Northern Arizona|Kentucky",
+      "away_points": 77,
+      "home_points": 78,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Marist|Lehigh",
+      "away_points": 60,
+      "home_points": 65,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Northern Iowa|Michigan State",
+      "away_points": 72,
+      "home_points": 106,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Troy|NC State",
+      "away_points": 62,
+      "home_points": 81,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Georgia|North Carolina",
+      "away_points": 78,
+      "home_points": 70,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Yale|Northeastern",
+      "away_points": 73,
+      "home_points": 84,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Ohio|Purdue",
+      "away_points": 62,
+      "home_points": 80,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Tennessee State|Tennessee",
+      "away_points": 78,
+      "home_points": 83,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Champion Christian|UT Martin",
+      "away_points": 57,
+      "home_points": 86,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Prairie View A&M|Vanderbilt",
+      "away_points": 62,
+      "home_points": 89,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Mount St. Mary's|Virginia Tech",
+      "away_points": 62,
+      "home_points": 82,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Mary Baldwin|VMI",
+      "away_points": 53,
+      "home_points": 71,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|South Dakota|Drake",
+      "away_points": 72,
+      "home_points": 81,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|North Carolina Central|Liberty",
+      "away_points": 66,
+      "home_points": 74,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Southeast Missouri State|Middle Tennessee",
+      "away_points": 75,
+      "home_points": 88,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Ohio State|UConn",
+      "away_points": 68,
+      "home_points": 84,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Central Arkansas|Arkansas",
+      "away_points": 66,
+      "home_points": 79,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|SIU Edwardsville|Duke",
+      "away_points": 47,
+      "home_points": 90,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|College of Biblical Studies|Houston Christian",
+      "away_points": 73,
+      "home_points": 108,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Virginia|Maryland",
+      "away_points": 87,
+      "home_points": 83,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Texas Southern|Murray State",
+      "away_points": 78,
+      "home_points": 99,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Illinois State|North Dakota State",
+      "away_points": 81,
+      "home_points": 82,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Fairleigh Dickinson|Oklahoma",
+      "away_points": 58,
+      "home_points": 74,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Wright State|Samford",
+      "away_points": 90,
+      "home_points": 66,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Alcorn State|Tarleton State",
+      "away_points": 69,
+      "home_points": 73,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Milwaukee|TCU",
+      "away_points": 64,
+      "home_points": 76,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Southern Miss|Texas State",
+      "away_points": 65,
+      "home_points": 85,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Georgia Southern|UCF",
+      "away_points": 70,
+      "home_points": 84,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Lindenwood|Omaha",
+      "away_points": 56,
+      "home_points": 67,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Seton Hall|Alabama",
+      "away_points": 76,
+      "home_points": 82,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|UL Monroe|Arizona State",
+      "away_points": 62,
+      "home_points": 92,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Arizona|Auburn",
+      "away_points": 80,
+      "home_points": 69,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Corban|Eastern Washington",
+      "away_points": 68,
+      "home_points": 102,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Cal Poly|Idaho",
+      "away_points": 83,
+      "home_points": 74,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Xavier|Mississippi State",
+      "away_points": 81,
+      "home_points": 63,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|DePaul|Northwestern",
+      "away_points": 67,
+      "home_points": 47,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Ball State|SMU",
+      "away_points": 65,
+      "home_points": 90,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Stanford|UNLV",
+      "away_points": 68,
+      "home_points": 76,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Mississippi Valley State|Oregon State",
+      "away_points": 65,
+      "home_points": 81,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Chicago State|San Diego",
+      "away_points": 67,
+      "home_points": 87,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|East Texas A&M|Portland",
+      "away_points": 94,
+      "home_points": 88,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|UIC|Saint Mary's",
+      "away_points": 61,
+      "home_points": 84,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|UC San Diego|Utah State",
+      "away_points": 82,
+      "home_points": 120,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    },
+    {
+      "key": "2026-11-13|Arkansas-Pine Bluff|California Baptist",
+      "away_points": 60,
+      "home_points": 74,
+      "sources": [
+        "https://watchwhere.us/college-basketball"
+      ],
+      "verification": "single-source; independent verification outstanding"
+    }
+  ],
+  "today_expected_games": [],
+  "today_reported_games": [
+    "2026-11-14|Tulane|Akron",
+    "2026-11-14|Stonehill|Texas Tech",
+    "2026-11-14|St. Thomas|Army",
+    "2026-11-14|Bradley|George Mason",
+    "2026-11-14|Drexel|Maine",
+    "2026-11-14|Montana|North Dakota",
+    "2026-11-14|Marshall|Youngstown State",
+    "2026-11-14|Loyola Chicago|Colorado State",
+    "2026-11-14|Northern Illinois|Bellarmine",
+    "2026-11-14|Miami (OH)|Evansville",
+    "2026-11-14|Gardner-Webb|South Carolina",
+    "2026-11-14|LSU|Gonzaga",
+    "2026-11-14|Southern Utah|Wake Forest",
+    "2026-11-14|Colorado|Providence",
+    "2026-11-14|Cincinnati|Dayton",
+    "2026-11-14|Furman|Belmont",
+    "2026-11-14|Utah Valley|Nevada",
+    "2026-11-14|New Mexico|Santa Clara",
+    "2026-11-14|UNC Greensboro|Cornell",
+    "2026-11-14|Air Force|Pacific",
+    "2026-11-14|Louisiana|UNC Wilmington"
+  ],
+  "expected_today_count_at_least": 71,
+  "coverage_status": "provisional; QA incomplete",
+  "limitations": [
+    "Expected national slate not independently enumerated",
+    "61 scores single-source except independently reported marquee games",
+    "Saturday schedule 21 of at least 71",
+    "Alabama official complete box not retrieved"
+  ]
+}
