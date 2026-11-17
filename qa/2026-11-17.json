@@ -1,0 +1,747 @@
+{
+  "issue_date": "2026-11-17",
+  "results_date": "2026-11-16",
+  "issue_number": 15,
+  "latest_poll_date": "2026-11-16",
+  "expected_games": [
+    {
+      "key": "2026-11-16|Miami-Hamilton|Morehead State",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Ferrum|George Washington",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Florida A&M|UTEP",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Alcorn State|Maryland",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Iona|UMBC",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Prairie View A&M|Ohio State",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|The Citadel|Clemson",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|DeSales|Penn",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Eastern Kentucky|Kent State",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Florida Memorial|Stetson",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Grambling State|Kentucky",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Jacksonville|Georgia",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Richmond|Virginia Tech",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|St. Thomas (MN)|LIU",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Virginia-Lynchburg|North Carolina Central",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Western Kentucky|Tulsa",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Midway|Southeast Missouri State",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Tarleton State|Drake",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Abilene Christian|Missouri State",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Calumet|Valparaiso",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Central Arkansas|Oklahoma State",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Columbia|Northwestern",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Mayville State|South Dakota State",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Montana|Kansas State",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Western Illinois|Minnesota",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Dallas Christian|UL Monroe",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Southeastern Louisiana|Texas A&M",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|East Texas A&M|Oregon State",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Colorado Colorado Springs|Denver",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Long Beach State|UCLA",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Portland State|Saint Mary's",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Texas Southern|UC San Diego",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|SIUE|North Dakota",
+      "status": "postponed",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    }
+  ],
+  "reported_games": [
+    {
+      "key": "2026-11-16|Miami-Hamilton|Morehead State",
+      "away": "Miami-Hamilton",
+      "home": "Morehead State",
+      "away_pts": 69,
+      "home_pts": 104,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Ferrum|George Washington",
+      "away": "Ferrum",
+      "home": "George Washington",
+      "away_pts": 57,
+      "home_pts": 94,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Florida A&M|UTEP",
+      "away": "Florida A&M",
+      "home": "UTEP",
+      "away_pts": 46,
+      "home_pts": 79,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Alcorn State|Maryland",
+      "away": "Alcorn State",
+      "home": "Maryland",
+      "away_pts": 57,
+      "home_pts": 117,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Iona|UMBC",
+      "away": "Iona",
+      "home": "UMBC",
+      "away_pts": 67,
+      "home_pts": 75,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Prairie View A&M|Ohio State",
+      "away": "Prairie View A&M",
+      "home": "Ohio State",
+      "away_pts": 59,
+      "home_pts": 86,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|The Citadel|Clemson",
+      "away": "The Citadel",
+      "home": "Clemson",
+      "away_pts": 51,
+      "home_pts": 87,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|DeSales|Penn",
+      "away": "DeSales",
+      "home": "Penn",
+      "away_pts": 53,
+      "home_pts": 75,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Eastern Kentucky|Kent State",
+      "away": "Eastern Kentucky",
+      "home": "Kent State",
+      "away_pts": 65,
+      "home_pts": 49,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Florida Memorial|Stetson",
+      "away": "Florida Memorial",
+      "home": "Stetson",
+      "away_pts": 56,
+      "home_pts": 91,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Grambling State|Kentucky",
+      "away": "Grambling State",
+      "home": "Kentucky",
+      "away_pts": 59,
+      "home_pts": 88,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Jacksonville|Georgia",
+      "away": "Jacksonville",
+      "home": "Georgia",
+      "away_pts": 62,
+      "home_pts": 107,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Richmond|Virginia Tech",
+      "away": "Richmond",
+      "home": "Virginia Tech",
+      "away_pts": 68,
+      "home_pts": 85,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|St. Thomas (MN)|LIU",
+      "away": "St. Thomas (MN)",
+      "home": "LIU",
+      "away_pts": 79,
+      "home_pts": 70,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Virginia-Lynchburg|North Carolina Central",
+      "away": "Virginia-Lynchburg",
+      "home": "North Carolina Central",
+      "away_pts": 71,
+      "home_pts": 117,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Western Kentucky|Tulsa",
+      "away": "Western Kentucky",
+      "home": "Tulsa",
+      "away_pts": 64,
+      "home_pts": 67,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Midway|Southeast Missouri State",
+      "away": "Midway",
+      "home": "Southeast Missouri State",
+      "away_pts": 45,
+      "home_pts": 115,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Tarleton State|Drake",
+      "away": "Tarleton State",
+      "home": "Drake",
+      "away_pts": 83,
+      "home_pts": 79,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Abilene Christian|Missouri State",
+      "away": "Abilene Christian",
+      "home": "Missouri State",
+      "away_pts": 64,
+      "home_pts": 73,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Calumet|Valparaiso",
+      "away": "Calumet",
+      "home": "Valparaiso",
+      "away_pts": 35,
+      "home_pts": 106,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Central Arkansas|Oklahoma State",
+      "away": "Central Arkansas",
+      "home": "Oklahoma State",
+      "away_pts": 66,
+      "home_pts": 99,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Columbia|Northwestern",
+      "away": "Columbia",
+      "home": "Northwestern",
+      "away_pts": 75,
+      "home_pts": 53,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Mayville State|South Dakota State",
+      "away": "Mayville State",
+      "home": "South Dakota State",
+      "away_pts": 67,
+      "home_pts": 107,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Montana|Kansas State",
+      "away": "Montana",
+      "home": "Kansas State",
+      "away_pts": 45,
+      "home_pts": 86,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Western Illinois|Minnesota",
+      "away": "Western Illinois",
+      "home": "Minnesota",
+      "away_pts": 63,
+      "home_pts": 99,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Dallas Christian|UL Monroe",
+      "away": "Dallas Christian",
+      "home": "UL Monroe",
+      "away_pts": 81,
+      "home_pts": 118,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Southeastern Louisiana|Texas A&M",
+      "away": "Southeastern Louisiana",
+      "home": "Texas A&M",
+      "away_pts": 69,
+      "home_pts": 101,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|East Texas A&M|Oregon State",
+      "away": "East Texas A&M",
+      "home": "Oregon State",
+      "away_pts": 71,
+      "home_pts": 109,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Colorado Colorado Springs|Denver",
+      "away": "Colorado Colorado Springs",
+      "home": "Denver",
+      "away_pts": 63,
+      "home_pts": 101,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Long Beach State|UCLA",
+      "away": "Long Beach State",
+      "home": "UCLA",
+      "away_pts": 66,
+      "home_pts": 105,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Portland State|Saint Mary's",
+      "away": "Portland State",
+      "home": "Saint Mary's",
+      "away_pts": 78,
+      "home_pts": 94,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|Texas Southern|UC San Diego",
+      "away": "Texas Southern",
+      "home": "UC San Diego",
+      "away_pts": 92,
+      "home_pts": 97,
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    },
+    {
+      "key": "2026-11-16|SIUE|North Dakota",
+      "away": "SIUE",
+      "home": "North Dakota",
+      "away_pts": null,
+      "home_pts": null,
+      "status": "postponed",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261116/"
+      ]
+    }
+  ],
+  "today_expected_games": [
+    "Wilson|Delaware",
+    "Louisiana College|Southern",
+    "Murray State|Hofstra",
+    "Houston|Rutgers",
+    "Florida|Notre Dame",
+    "Marist|Army",
+    "Southern Illinois|Liberty",
+    "Saint Peter's|UMass Lowell",
+    "Maine-Augusta|Dartmouth",
+    "Lipscomb|Purdue",
+    "Potsdam|Stony Brook",
+    "Cleveland State|Xavier",
+    "Wagner|Saint Joseph's",
+    "Monmouth|Wake Forest",
+    "Bowling Green|William & Mary",
+    "Northern Vermont-Lyndon|Central Connecticut",
+    "CSUN|Troy",
+    "Green Bay|West Florida",
+    "Charlotte|Davidson",
+    "Spring Hill|South Alabama",
+    "Sacred Heart|Providence",
+    "Tennessee State|South Florida",
+    "Cheyney|Delaware State",
+    "Villanova|Pittsburgh",
+    "Illinois|Duke",
+    "Fort Lauderdale|North Florida",
+    "Western Carolina|Butler",
+    "Mississippi State|UCF",
+    "Central Michigan|Dayton",
+    "Akron|Bucknell",
+    "Ball State|Florida State",
+    "Norfolk State|Georgia Tech",
+    "Fordham|Manhattan",
+    "East Tennessee State|Marshall",
+    "Rider|Miami",
+    "Lehigh|Mount St Mary's",
+    "Bryant|Massachusetts",
+    "Jacksonville State|Louisiana Tech",
+    "FIU|UAB",
+    "Kennesaw State|Alabama",
+    "Arkansas|Indiana",
+    "SIUE|North Dakota",
+    "UT Arlington|Southern Miss",
+    "Embry-Riddle|Northern Arizona",
+    "Lamar|Omaha",
+    "Eastern Illinois|Vanderbilt",
+    "Texas A&M Corpus Christi|Rice",
+    "Bellarmine|Illinois State",
+    "Oral Roberts|SMU",
+    "Lindenwood|Northern Iowa",
+    "Newman|Kansas City",
+    "Le Moyne|Evansville",
+    "Maryland Eastern Shore|DePaul",
+    "Life|Austin Peay",
+    "Middle Tennessee|Georgia Southern",
+    "Sam Houston|Wyoming",
+    "Eastern Washington|Utah",
+    "Nicholls|Ole Miss",
+    "Michigan State|Tennessee",
+    "Old Dominion|Virginia",
+    "Alabama State|UC Davis",
+    "Kansas|UNLV",
+    "Pacific Union|Pacific",
+    "UC Irvine|Stanford",
+    "Seattle|California Baptist",
+    "Simon Fraser|Washington",
+    "Montana State|Gonzaga",
+    "West Virginia|Auburn"
+  ],
+  "today_reported_games": [
+    "Wilson|Delaware",
+    "Louisiana College|Southern",
+    "Murray State|Hofstra",
+    "Houston|Rutgers",
+    "Florida|Notre Dame",
+    "Marist|Army",
+    "Southern Illinois|Liberty",
+    "Saint Peter's|UMass Lowell",
+    "Maine-Augusta|Dartmouth",
+    "Lipscomb|Purdue",
+    "Potsdam|Stony Brook",
+    "Cleveland State|Xavier",
+    "Wagner|Saint Joseph's",
+    "Monmouth|Wake Forest",
+    "Bowling Green|William & Mary",
+    "Northern Vermont-Lyndon|Central Connecticut",
+    "CSUN|Troy",
+    "Green Bay|West Florida",
+    "Charlotte|Davidson",
+    "Spring Hill|South Alabama",
+    "Sacred Heart|Providence",
+    "Tennessee State|South Florida",
+    "Cheyney|Delaware State",
+    "Villanova|Pittsburgh",
+    "Illinois|Duke",
+    "Fort Lauderdale|North Florida",
+    "Western Carolina|Butler",
+    "Mississippi State|UCF",
+    "Central Michigan|Dayton",
+    "Akron|Bucknell",
+    "Ball State|Florida State",
+    "Norfolk State|Georgia Tech",
+    "Fordham|Manhattan",
+    "East Tennessee State|Marshall",
+    "Rider|Miami",
+    "Lehigh|Mount St Mary's",
+    "Bryant|Massachusetts",
+    "Jacksonville State|Louisiana Tech",
+    "FIU|UAB",
+    "Kennesaw State|Alabama",
+    "Arkansas|Indiana",
+    "SIUE|North Dakota",
+    "UT Arlington|Southern Miss",
+    "Embry-Riddle|Northern Arizona",
+    "Lamar|Omaha",
+    "Eastern Illinois|Vanderbilt",
+    "Texas A&M Corpus Christi|Rice",
+    "Bellarmine|Illinois State",
+    "Oral Roberts|SMU",
+    "Lindenwood|Northern Iowa",
+    "Newman|Kansas City",
+    "Le Moyne|Evansville",
+    "Maryland Eastern Shore|DePaul",
+    "Life|Austin Peay",
+    "Middle Tennessee|Georgia Southern",
+    "Sam Houston|Wyoming",
+    "Eastern Washington|Utah",
+    "Nicholls|Ole Miss",
+    "Michigan State|Tennessee",
+    "Old Dominion|Virginia",
+    "Alabama State|UC Davis",
+    "Kansas|UNLV",
+    "Pacific Union|Pacific",
+    "UC Irvine|Stanford",
+    "Seattle|California Baptist",
+    "Simon Fraser|Washington",
+    "Montana State|Gonzaga",
+    "West Virginia|Auburn"
+  ],
+  "coverage_status": "provisional",
+  "unresolved": "ESPN full slate inaccessible; 4Basketball lists 33 vs CBS 33 entries; all exact game keys and second independent sources not reconciled",
+  "lookahead_source": "https://www.cbssports.com/college-basketball/schedule/ALL/20261117/"
+}
