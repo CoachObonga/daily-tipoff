@@ -1,0 +1,1731 @@
+{
+  "issue_date": "2026-11-18",
+  "results_date": "2026-11-17",
+  "issue_number": 16,
+  "latest_poll_date": "2026-11-16",
+  "expected_games": [
+    {
+      "away": "Wilson",
+      "home": "Delaware",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Louisiana College",
+      "home": "Southern",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Murray State",
+      "home": "Hofstra",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Houston",
+      "home": "Rutgers",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Florida",
+      "home": "Notre Dame",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Marist",
+      "home": "Army",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Southern Illinois",
+      "home": "Liberty",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Saint Peter's",
+      "home": "UMass Lowell",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Lipscomb",
+      "home": "Purdue",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Maine-Augusta",
+      "home": "Dartmouth",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Potsdam",
+      "home": "Stony Brook",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Akron",
+      "home": "Bucknell",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Ball State",
+      "home": "Florida State",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Bowling Green",
+      "home": "William & Mary",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Charlotte",
+      "home": "Davidson",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Cheyney",
+      "home": "Delaware State",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Cleveland State",
+      "home": "Xavier",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Central Michigan",
+      "home": "Dayton",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "CSUN",
+      "home": "Troy",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "East Tennessee State",
+      "home": "Marshall",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Fordham",
+      "home": "Manhattan",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Fort Lauderdale",
+      "home": "North Florida",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Illinois",
+      "home": "Duke",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Lehigh",
+      "home": "Mount St. Mary's",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Mississippi State",
+      "home": "UCF",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Monmouth",
+      "home": "Wake Forest",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Norfolk State",
+      "home": "Georgia Tech",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Villanova",
+      "home": "Pittsburgh",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Northern Vermont-Lyndon",
+      "home": "Central Connecticut State",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Rider",
+      "home": "Miami (FL)",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Sacred Heart",
+      "home": "Providence",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Spring Hill",
+      "home": "South Alabama",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Tennessee State",
+      "home": "South Florida",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Wagner",
+      "home": "Saint Joseph's",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Western Carolina",
+      "home": "Butler",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Green Bay",
+      "home": "West Florida",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Arkansas",
+      "home": "Indiana",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Bryant",
+      "home": "Massachusetts",
+      "status": "Final/OT",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "FIU",
+      "home": "UAB",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Jacksonville State",
+      "home": "Louisiana Tech",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Kennesaw State",
+      "home": "Alabama",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Bellarmine",
+      "home": "Illinois State",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Eastern Illinois",
+      "home": "Vanderbilt",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Embry-Riddle",
+      "home": "Northern Arizona",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Lamar",
+      "home": "Omaha",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Le Moyne",
+      "home": "Evansville",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Life",
+      "home": "Austin Peay",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Lindenwood",
+      "home": "Northern Iowa",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Middle Tennessee",
+      "home": "Georgia Southern",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Newman",
+      "home": "Kansas City",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Oral Roberts",
+      "home": "SMU",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "SIU Edwardsville",
+      "home": "North Dakota",
+      "status": "Final/OT",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Texas A&M-Corpus Christi",
+      "home": "Rice",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "UT Arlington",
+      "home": "Southern Miss",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Maryland Eastern Shore",
+      "home": "DePaul",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Eastern Washington",
+      "home": "Utah",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Nicholls",
+      "home": "Ole Miss",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Sam Houston",
+      "home": "Wyoming",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Alabama State",
+      "home": "UC Davis",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Michigan State",
+      "home": "Tennessee",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Old Dominion",
+      "home": "Virginia",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Kansas",
+      "home": "UNLV",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Pacific Union",
+      "home": "Pacific",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Seattle",
+      "home": "California Baptist",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Simon Fraser",
+      "home": "Washington",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "UC Irvine",
+      "home": "Stanford",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    },
+    {
+      "away": "Montana State",
+      "home": "Gonzaga",
+      "status": "Final",
+      "source": "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+    }
+  ],
+  "reported_games": [
+    {
+      "away": "Wilson",
+      "away_pts": 47,
+      "home": "Delaware",
+      "home_pts": 93,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Louisiana College",
+      "away_pts": 58,
+      "home": "Southern",
+      "home_pts": 100,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Murray State",
+      "away_pts": 82,
+      "home": "Hofstra",
+      "home_pts": 66,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Houston",
+      "away_pts": 85,
+      "home": "Rutgers",
+      "home_pts": 73,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Florida",
+      "away_pts": 86,
+      "home": "Notre Dame",
+      "home_pts": 78,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Marist",
+      "away_pts": 73,
+      "home": "Army",
+      "home_pts": 68,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Southern Illinois",
+      "away_pts": 78,
+      "home": "Liberty",
+      "home_pts": 87,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Saint Peter's",
+      "away_pts": 51,
+      "home": "UMass Lowell",
+      "home_pts": 66,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Lipscomb",
+      "away_pts": 78,
+      "home": "Purdue",
+      "home_pts": 95,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Maine-Augusta",
+      "away_pts": 67,
+      "home": "Dartmouth",
+      "home_pts": 117,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Potsdam",
+      "away_pts": 47,
+      "home": "Stony Brook",
+      "home_pts": 104,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Akron",
+      "away_pts": 49,
+      "home": "Bucknell",
+      "home_pts": 53,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Ball State",
+      "away_pts": 71,
+      "home": "Florida State",
+      "home_pts": 85,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Bowling Green",
+      "away_pts": 73,
+      "home": "William & Mary",
+      "home_pts": 77,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Charlotte",
+      "away_pts": 73,
+      "home": "Davidson",
+      "home_pts": 66,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Cheyney",
+      "away_pts": 70,
+      "home": "Delaware State",
+      "home_pts": 90,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Cleveland State",
+      "away_pts": 67,
+      "home": "Xavier",
+      "home_pts": 75,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Central Michigan",
+      "away_pts": 63,
+      "home": "Dayton",
+      "home_pts": 88,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "CSUN",
+      "away_pts": 74,
+      "home": "Troy",
+      "home_pts": 84,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "East Tennessee State",
+      "away_pts": 55,
+      "home": "Marshall",
+      "home_pts": 67,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Fordham",
+      "away_pts": 80,
+      "home": "Manhattan",
+      "home_pts": 61,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Fort Lauderdale",
+      "away_pts": 59,
+      "home": "North Florida",
+      "home_pts": 98,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Illinois",
+      "away_pts": 99,
+      "home": "Duke",
+      "home_pts": 78,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Lehigh",
+      "away_pts": 99,
+      "home": "Mount St. Mary's",
+      "home_pts": 65,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Mississippi State",
+      "away_pts": 86,
+      "home": "UCF",
+      "home_pts": 83,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Monmouth",
+      "away_pts": 76,
+      "home": "Wake Forest",
+      "home_pts": 81,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Norfolk State",
+      "away_pts": 79,
+      "home": "Georgia Tech",
+      "home_pts": 93,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Villanova",
+      "away_pts": 61,
+      "home": "Pittsburgh",
+      "home_pts": 81,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Northern Vermont-Lyndon",
+      "away_pts": 55,
+      "home": "Central Connecticut State",
+      "home_pts": 98,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Rider",
+      "away_pts": 48,
+      "home": "Miami (FL)",
+      "home_pts": 95,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Sacred Heart",
+      "away_pts": 67,
+      "home": "Providence",
+      "home_pts": 86,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Spring Hill",
+      "away_pts": 69,
+      "home": "South Alabama",
+      "home_pts": 122,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Tennessee State",
+      "away_pts": 71,
+      "home": "South Florida",
+      "home_pts": 98,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Wagner",
+      "away_pts": 65,
+      "home": "Saint Joseph's",
+      "home_pts": 84,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Western Carolina",
+      "away_pts": 64,
+      "home": "Butler",
+      "home_pts": 89,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Green Bay",
+      "away_pts": 69,
+      "home": "West Florida",
+      "home_pts": 87,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Arkansas",
+      "away_pts": 76,
+      "home": "Indiana",
+      "home_pts": 81,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Bryant",
+      "away_pts": 83,
+      "home": "Massachusetts",
+      "home_pts": 79,
+      "status": "Final/OT",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "FIU",
+      "away_pts": 82,
+      "home": "UAB",
+      "home_pts": 94,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Jacksonville State",
+      "away_pts": 63,
+      "home": "Louisiana Tech",
+      "home_pts": 68,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Kennesaw State",
+      "away_pts": 91,
+      "home": "Alabama",
+      "home_pts": 109,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Bellarmine",
+      "away_pts": 59,
+      "home": "Illinois State",
+      "home_pts": 76,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Eastern Illinois",
+      "away_pts": 50,
+      "home": "Vanderbilt",
+      "home_pts": 96,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Embry-Riddle",
+      "away_pts": 59,
+      "home": "Northern Arizona",
+      "home_pts": 72,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Lamar",
+      "away_pts": 104,
+      "home": "Omaha",
+      "home_pts": 74,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Le Moyne",
+      "away_pts": 65,
+      "home": "Evansville",
+      "home_pts": 79,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Life",
+      "away_pts": 57,
+      "home": "Austin Peay",
+      "home_pts": 70,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Lindenwood",
+      "away_pts": 74,
+      "home": "Northern Iowa",
+      "home_pts": 81,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Middle Tennessee",
+      "away_pts": 85,
+      "home": "Georgia Southern",
+      "home_pts": 78,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Newman",
+      "away_pts": 64,
+      "home": "Kansas City",
+      "home_pts": 68,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Oral Roberts",
+      "away_pts": 72,
+      "home": "SMU",
+      "home_pts": 76,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "SIU Edwardsville",
+      "away_pts": 78,
+      "home": "North Dakota",
+      "home_pts": 83,
+      "status": "Final/OT",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Texas A&M-Corpus Christi",
+      "away_pts": 74,
+      "home": "Rice",
+      "home_pts": 81,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "UT Arlington",
+      "away_pts": 83,
+      "home": "Southern Miss",
+      "home_pts": 72,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Maryland Eastern Shore",
+      "away_pts": 39,
+      "home": "DePaul",
+      "home_pts": 83,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Eastern Washington",
+      "away_pts": 71,
+      "home": "Utah",
+      "home_pts": 67,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Nicholls",
+      "away_pts": 41,
+      "home": "Ole Miss",
+      "home_pts": 76,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Sam Houston",
+      "away_pts": 79,
+      "home": "Wyoming",
+      "home_pts": 81,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Alabama State",
+      "away_pts": 75,
+      "home": "UC Davis",
+      "home_pts": 68,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Michigan State",
+      "away_pts": 46,
+      "home": "Tennessee",
+      "home_pts": 61,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Old Dominion",
+      "away_pts": 65,
+      "home": "Virginia",
+      "home_pts": 85,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Kansas",
+      "away_pts": 102,
+      "home": "UNLV",
+      "home_pts": 77,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Pacific Union",
+      "away_pts": 41,
+      "home": "Pacific",
+      "home_pts": 96,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Seattle",
+      "away_pts": 83,
+      "home": "California Baptist",
+      "home_pts": 54,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Simon Fraser",
+      "away_pts": 59,
+      "home": "Washington",
+      "home_pts": 96,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "UC Irvine",
+      "away_pts": 61,
+      "home": "Stanford",
+      "home_pts": 65,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    },
+    {
+      "away": "Montana State",
+      "away_pts": 62,
+      "home": "Gonzaga",
+      "home_pts": 74,
+      "status": "Final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/FBS/20261117/"
+      ],
+      "verification": "single-source provisional; second independent URL pending"
+    }
+  ],
+  "today_expected_games": [
+    {
+      "away": "West Virginia",
+      "home": "Auburn"
+    },
+    {
+      "away": "Jackson State",
+      "home": "Baylor"
+    },
+    {
+      "away": "Rutgers",
+      "home": "Notre Dame"
+    },
+    {
+      "away": "Houston",
+      "home": "Florida"
+    },
+    {
+      "away": "Detroit Mercy",
+      "home": "Eastern Michigan"
+    },
+    {
+      "away": "Navy",
+      "home": "Georgetown"
+    },
+    {
+      "away": "IU Indianapolis",
+      "home": "Penn State"
+    },
+    {
+      "away": "Samford",
+      "home": "USC Upstate"
+    },
+    {
+      "away": "Tennessee Tech",
+      "home": "UNC Asheville"
+    },
+    {
+      "away": "Chattanooga",
+      "home": "Winthrop"
+    },
+    {
+      "away": "FGCU",
+      "home": "Florida Atlantic"
+    },
+    {
+      "away": "Columbia College",
+      "home": "West Georgia"
+    },
+    {
+      "away": "VMI",
+      "home": "Longwood"
+    },
+    {
+      "away": "Boston University",
+      "home": "Merrimack"
+    },
+    {
+      "away": "Chicago State",
+      "home": "UIC"
+    },
+    {
+      "away": "Massachusetts College of Liberal Arts",
+      "home": "New Haven"
+    },
+    {
+      "away": "Howard",
+      "home": "Duquesne"
+    },
+    {
+      "away": "Morehead State",
+      "home": "Ohio"
+    },
+    {
+      "away": "St. Joseph's Brooklyn",
+      "home": "Fairfield"
+    },
+    {
+      "away": "Mercer",
+      "home": "Presbyterian"
+    },
+    {
+      "away": "James Madison",
+      "home": "Towson"
+    },
+    {
+      "away": "Vermont",
+      "home": "Yale"
+    },
+    {
+      "away": "Morgan State",
+      "home": "North Carolina A&T"
+    },
+    {
+      "away": "Siena",
+      "home": "St. John's"
+    },
+    {
+      "away": "Elon",
+      "home": "South Carolina"
+    },
+    {
+      "away": "Furman",
+      "home": "Radford"
+    },
+    {
+      "away": "Defiance",
+      "home": "Miami (OH)"
+    },
+    {
+      "away": "UNC Wilmington",
+      "home": "LIU"
+    },
+    {
+      "away": "Coppin State",
+      "home": "La Salle"
+    },
+    {
+      "away": "Binghamton",
+      "home": "Lafayette"
+    },
+    {
+      "away": "Brown",
+      "home": "Holy Cross"
+    },
+    {
+      "away": "NC Central",
+      "home": "George Mason"
+    },
+    {
+      "away": "NJIT",
+      "home": "Fairleigh Dickinson"
+    },
+    {
+      "away": "Utica",
+      "home": "Colgate"
+    },
+    {
+      "away": "Wofford",
+      "home": "Charleston Southern"
+    },
+    {
+      "away": "Biblical Studies",
+      "home": "UT Rio Grande Valley"
+    },
+    {
+      "away": "Kansas",
+      "home": "West Virginia"
+    },
+    {
+      "away": "Malone",
+      "home": "Wright State"
+    },
+    {
+      "away": "Union College",
+      "home": "Belmont"
+    },
+    {
+      "away": "New Orleans",
+      "home": "Texas Tech"
+    },
+    {
+      "away": "Youngstown State",
+      "home": "Cincinnati"
+    },
+    {
+      "away": "Northern Illinois",
+      "home": "Marquette"
+    },
+    {
+      "away": "UL Monroe",
+      "home": "LSU"
+    },
+    {
+      "away": "Florida A&M",
+      "home": "UTSA"
+    },
+    {
+      "away": "Lindsey Wilson",
+      "home": "Southern Indiana"
+    },
+    {
+      "away": "Boston College",
+      "home": "Harvard"
+    },
+    {
+      "away": "Incarnate Word",
+      "home": "Texas State"
+    },
+    {
+      "away": "Campbell",
+      "home": "Oklahoma"
+    },
+    {
+      "away": "Wichita State",
+      "home": "Loyola Chicago"
+    },
+    {
+      "away": "Purdue Fort Wayne",
+      "home": "Bradley"
+    },
+    {
+      "away": "Arkansas Pine Bluff",
+      "home": "Arkansas State"
+    },
+    {
+      "away": "New Hampshire",
+      "home": "Stonehill"
+    },
+    {
+      "away": "UNC Greensboro",
+      "home": "Gardner-Webb"
+    },
+    {
+      "away": "Cornell",
+      "home": "Syracuse"
+    },
+    {
+      "away": "South Dakota",
+      "home": "Nebraska"
+    },
+    {
+      "away": "Portland",
+      "home": "Colorado"
+    },
+    {
+      "away": "Fresno State",
+      "home": "San Jose State"
+    },
+    {
+      "away": "Weber State",
+      "home": "Utah State"
+    },
+    {
+      "away": "North Dakota State",
+      "home": "Colorado State"
+    },
+    {
+      "away": "McMurry",
+      "home": "Abilene Christian"
+    },
+    {
+      "away": "Northern Colorado",
+      "home": "BYU"
+    },
+    {
+      "away": "Oakland",
+      "home": "Arizona State"
+    },
+    {
+      "away": "UConn",
+      "home": "Arizona"
+    },
+    {
+      "away": "Alcorn State",
+      "home": "Missouri"
+    },
+    {
+      "away": "Bethune-Cookman",
+      "home": "Creighton"
+    },
+    {
+      "away": "UC Riverside",
+      "home": "San Diego"
+    },
+    {
+      "away": "Idaho",
+      "home": "Nevada"
+    },
+    {
+      "away": "Texas Southern",
+      "home": "San Diego State"
+    },
+    {
+      "away": "Louisiana",
+      "home": "San Francisco"
+    },
+    {
+      "away": "Hawaii",
+      "home": "Washington State"
+    },
+    {
+      "away": "UNLV",
+      "home": "Auburn"
+    },
+    {
+      "away": "Cal State Fullerton",
+      "home": "UCLA"
+    }
+  ],
+  "today_reported_games": [
+    {
+      "away": "West Virginia",
+      "home": "Auburn"
+    },
+    {
+      "away": "Jackson State",
+      "home": "Baylor"
+    },
+    {
+      "away": "Rutgers",
+      "home": "Notre Dame"
+    },
+    {
+      "away": "Houston",
+      "home": "Florida"
+    },
+    {
+      "away": "Detroit Mercy",
+      "home": "Eastern Michigan"
+    },
+    {
+      "away": "Navy",
+      "home": "Georgetown"
+    },
+    {
+      "away": "IU Indianapolis",
+      "home": "Penn State"
+    },
+    {
+      "away": "Samford",
+      "home": "USC Upstate"
+    },
+    {
+      "away": "Tennessee Tech",
+      "home": "UNC Asheville"
+    },
+    {
+      "away": "Chattanooga",
+      "home": "Winthrop"
+    },
+    {
+      "away": "FGCU",
+      "home": "Florida Atlantic"
+    },
+    {
+      "away": "Columbia College",
+      "home": "West Georgia"
+    },
+    {
+      "away": "VMI",
+      "home": "Longwood"
+    },
+    {
+      "away": "Boston University",
+      "home": "Merrimack"
+    },
+    {
+      "away": "Chicago State",
+      "home": "UIC"
+    },
+    {
+      "away": "Massachusetts College of Liberal Arts",
+      "home": "New Haven"
+    },
+    {
+      "away": "Howard",
+      "home": "Duquesne"
+    },
+    {
+      "away": "Morehead State",
+      "home": "Ohio"
+    },
+    {
+      "away": "St. Joseph's Brooklyn",
+      "home": "Fairfield"
+    },
+    {
+      "away": "Mercer",
+      "home": "Presbyterian"
+    },
+    {
+      "away": "James Madison",
+      "home": "Towson"
+    },
+    {
+      "away": "Vermont",
+      "home": "Yale"
+    },
+    {
+      "away": "Morgan State",
+      "home": "North Carolina A&T"
+    },
+    {
+      "away": "Siena",
+      "home": "St. John's"
+    },
+    {
+      "away": "Elon",
+      "home": "South Carolina"
+    },
+    {
+      "away": "Furman",
+      "home": "Radford"
+    },
+    {
+      "away": "Defiance",
+      "home": "Miami (OH)"
+    },
+    {
+      "away": "UNC Wilmington",
+      "home": "LIU"
+    },
+    {
+      "away": "Coppin State",
+      "home": "La Salle"
+    },
+    {
+      "away": "Binghamton",
+      "home": "Lafayette"
+    },
+    {
+      "away": "Brown",
+      "home": "Holy Cross"
+    },
+    {
+      "away": "NC Central",
+      "home": "George Mason"
+    },
+    {
+      "away": "NJIT",
+      "home": "Fairleigh Dickinson"
+    },
+    {
+      "away": "Utica",
+      "home": "Colgate"
+    },
+    {
+      "away": "Wofford",
+      "home": "Charleston Southern"
+    },
+    {
+      "away": "Biblical Studies",
+      "home": "UT Rio Grande Valley"
+    },
+    {
+      "away": "Kansas",
+      "home": "West Virginia"
+    },
+    {
+      "away": "Malone",
+      "home": "Wright State"
+    },
+    {
+      "away": "Union College",
+      "home": "Belmont"
+    },
+    {
+      "away": "New Orleans",
+      "home": "Texas Tech"
+    },
+    {
+      "away": "Youngstown State",
+      "home": "Cincinnati"
+    },
+    {
+      "away": "Northern Illinois",
+      "home": "Marquette"
+    },
+    {
+      "away": "UL Monroe",
+      "home": "LSU"
+    },
+    {
+      "away": "Florida A&M",
+      "home": "UTSA"
+    },
+    {
+      "away": "Lindsey Wilson",
+      "home": "Southern Indiana"
+    },
+    {
+      "away": "Boston College",
+      "home": "Harvard"
+    },
+    {
+      "away": "Incarnate Word",
+      "home": "Texas State"
+    },
+    {
+      "away": "Campbell",
+      "home": "Oklahoma"
+    },
+    {
+      "away": "Wichita State",
+      "home": "Loyola Chicago"
+    },
+    {
+      "away": "Purdue Fort Wayne",
+      "home": "Bradley"
+    },
+    {
+      "away": "Arkansas Pine Bluff",
+      "home": "Arkansas State"
+    },
+    {
+      "away": "New Hampshire",
+      "home": "Stonehill"
+    },
+    {
+      "away": "UNC Greensboro",
+      "home": "Gardner-Webb"
+    },
+    {
+      "away": "Cornell",
+      "home": "Syracuse"
+    },
+    {
+      "away": "South Dakota",
+      "home": "Nebraska"
+    },
+    {
+      "away": "Portland",
+      "home": "Colorado"
+    },
+    {
+      "away": "Fresno State",
+      "home": "San Jose State"
+    },
+    {
+      "away": "Weber State",
+      "home": "Utah State"
+    },
+    {
+      "away": "North Dakota State",
+      "home": "Colorado State"
+    },
+    {
+      "away": "McMurry",
+      "home": "Abilene Christian"
+    },
+    {
+      "away": "Northern Colorado",
+      "home": "BYU"
+    },
+    {
+      "away": "Oakland",
+      "home": "Arizona State"
+    },
+    {
+      "away": "UConn",
+      "home": "Arizona"
+    },
+    {
+      "away": "Alcorn State",
+      "home": "Missouri"
+    },
+    {
+      "away": "Bethune-Cookman",
+      "home": "Creighton"
+    },
+    {
+      "away": "UC Riverside",
+      "home": "San Diego"
+    },
+    {
+      "away": "Idaho",
+      "home": "Nevada"
+    },
+    {
+      "away": "Texas Southern",
+      "home": "San Diego State"
+    },
+    {
+      "away": "Louisiana",
+      "home": "San Francisco"
+    },
+    {
+      "away": "Hawaii",
+      "home": "Washington State"
+    },
+    {
+      "away": "UNLV",
+      "home": "Auburn"
+    },
+    {
+      "away": "Cal State Fullerton",
+      "home": "UCLA"
+    }
+  ],
+  "coverage_status": "PROVISIONAL: 67 CBS finals; second-source checks and ESPN reconciliation pending. West Virginia-Auburn midnight boundary unresolved.",
+  "validator_run": false
+}
