@@ -1,0 +1,389 @@
+{
+  "issue_date": "2026-11-19",
+  "results_date": "2026-11-18",
+  "issue_number": 17,
+  "latest_poll_date": "2026-11-16",
+  "expected_games": [
+    {
+      "key": "2026-11-18|Houston|Florida",
+      "status": "final",
+      "sources": [
+        "https://www.wsbradio.com/sports/dedan-thomas-jr/EJXZQFQ33Q4EDPI4NKSXAUW4XM/",
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|UConn|Arizona",
+      "status": "final",
+      "sources": [
+        "https://arizonawildcats.com/news/2026/11/18/mens-basketball-no-12-arizona-defeats-no-3-uconn-at-home-85-79",
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|Elon|South Carolina",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/news/jakub-necas-scores-24-as-south-carolina-holds-off-elon-80-72/",
+        "https://www.washingtonpost.com/sports/colleges/2026/11/18/elon-south-carolina-score/eb241efe-e3bf-11f1-a99e-b3e3805c6b8b_story.html"
+      ]
+    },
+    {
+      "key": "2026-11-18|Alcorn State|Missouri",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/gametracker/recap/NCAAB_20261118_ALCORN%40MIZZOU/",
+        "https://www.thebig1050.com/2026/11/18/missouri-races-past-alcorn-state-in-61-point-rout/"
+      ]
+    },
+    {
+      "key": "2026-11-18|Kansas|West Virginia",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|Siena|St. John's",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|New Orleans|Texas Tech",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|UL Monroe|LSU",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|Northern Colorado|BYU",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|South Dakota|Nebraska",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|UNC Wilmington|LIU",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|Vermont|Yale",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|Portland|Colorado",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|Campbell|Oklahoma",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|Boston University|Merrimack",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|Navy|Georgetown",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|Chattanooga|Winthrop",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|Detroit Mercy|Eastern Michigan",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|Wofford|Charleston Southern",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|Hawaii|Washington State",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|UNLV|Auburn",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    }
+  ],
+  "reported_games": [
+    {
+      "key": "2026-11-18|Houston|Florida",
+      "status": "final",
+      "sources": [
+        "https://www.wsbradio.com/sports/dedan-thomas-jr/EJXZQFQ33Q4EDPI4NKSXAUW4XM/",
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|UConn|Arizona",
+      "status": "final",
+      "sources": [
+        "https://arizonawildcats.com/news/2026/11/18/mens-basketball-no-12-arizona-defeats-no-3-uconn-at-home-85-79",
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|Elon|South Carolina",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/news/jakub-necas-scores-24-as-south-carolina-holds-off-elon-80-72/",
+        "https://www.washingtonpost.com/sports/colleges/2026/11/18/elon-south-carolina-score/eb241efe-e3bf-11f1-a99e-b3e3805c6b8b_story.html"
+      ]
+    },
+    {
+      "key": "2026-11-18|Alcorn State|Missouri",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/gametracker/recap/NCAAB_20261118_ALCORN%40MIZZOU/",
+        "https://www.thebig1050.com/2026/11/18/missouri-races-past-alcorn-state-in-61-point-rout/"
+      ]
+    },
+    {
+      "key": "2026-11-18|Kansas|West Virginia",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|Siena|St. John's",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|New Orleans|Texas Tech",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|UL Monroe|LSU",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|Northern Colorado|BYU",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|South Dakota|Nebraska",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|UNC Wilmington|LIU",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|Vermont|Yale",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|Portland|Colorado",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|Campbell|Oklahoma",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|Boston University|Merrimack",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|Navy|Georgetown",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|Chattanooga|Winthrop",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|Detroit Mercy|Eastern Michigan",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|Wofford|Charleston Southern",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|Hawaii|Washington State",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    },
+    {
+      "key": "2026-11-18|UNLV|Auburn",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261118/"
+      ]
+    }
+  ],
+  "today_expected_games": [
+    "NC State|Murray State",
+    "Northeastern|Butler",
+    "UMBC|Ohio State",
+    "Stetson|Louisville",
+    "Southern Utah|Texas",
+    "Texas A&M|TCU",
+    "Oregon State|Oregon",
+    "Wisconsin|Seton Hall",
+    "Houston|Kansas",
+    "VCU|Santa Clara",
+    "Tarleton State|USC",
+    "Sacramento State|Stanford",
+    "East Texas A&M|California",
+    "Buffalo|St. Bonaventure",
+    "Maine|Quinnipiac",
+    "Montana State|High Point",
+    "Little Rock|Jacksonville",
+    "Robert Morris|Toledo",
+    "Charleston|Drake",
+    "Tulane|Louisiana Tech",
+    "Georgia Southern|Houston Christian",
+    "Southeast Missouri State|St. Thomas (MN)",
+    "Utah Tech|Washington",
+    "UCSB|Pepperdine",
+    "UTEP|New Mexico State",
+    "Northwest Indian College|Portland State",
+    "Mary Baldwin|American",
+    "North Park|SIU Edwardsville",
+    "Berea|Northern Kentucky",
+    "Southern Miss|Grambling State",
+    "Eureka|Illinois State",
+    "Mayville State|North Dakota",
+    "Rutgers|UNLV",
+    "Florida|West Virginia",
+    "Notre Dame|Auburn"
+  ],
+  "today_reported_games": [
+    "NC State|Murray State",
+    "Northeastern|Butler",
+    "UMBC|Ohio State",
+    "Stetson|Louisville",
+    "Southern Utah|Texas",
+    "Texas A&M|TCU",
+    "Oregon State|Oregon",
+    "Wisconsin|Seton Hall",
+    "Houston|Kansas",
+    "VCU|Santa Clara",
+    "Tarleton State|USC",
+    "Sacramento State|Stanford",
+    "East Texas A&M|California",
+    "Buffalo|St. Bonaventure",
+    "Maine|Quinnipiac",
+    "Montana State|High Point",
+    "Little Rock|Jacksonville",
+    "Robert Morris|Toledo",
+    "Charleston|Drake",
+    "Tulane|Louisiana Tech",
+    "Georgia Southern|Houston Christian",
+    "Southeast Missouri State|St. Thomas (MN)",
+    "Utah Tech|Washington",
+    "UCSB|Pepperdine",
+    "UTEP|New Mexico State",
+    "Northwest Indian College|Portland State",
+    "Mary Baldwin|American",
+    "North Park|SIU Edwardsville",
+    "Berea|Northern Kentucky",
+    "Southern Miss|Grambling State",
+    "Eureka|Illinois State",
+    "Mayville State|North Dakota",
+    "Rutgers|UNLV",
+    "Florida|West Virginia",
+    "Notre Dame|Auburn"
+  ],
+  "coverage_status": "PROVISIONAL - national slate not independently enumerated; 17 reported finals have only one source; Look Ahead un-reconciled",
+  "independent_expected_game_set_complete": false,
+  "independent_today_game_set_complete": false
+}
