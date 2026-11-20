@@ -1,0 +1,635 @@
+{
+  "issue_date": "2026-11-20",
+  "results_date": "2026-11-19",
+  "issue_number": 18,
+  "latest_poll_date": "2026-11-16",
+  "expected_games": [
+    {
+      "key": "2026-11-19|Florida|West Virginia",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Notre Dame|Auburn",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/",
+        "https://auburntigers.com/news/2026/11/19/auburn-falls-to-notre-dame-78-73-in-las-vegas"
+      ]
+    },
+    {
+      "key": "2026-11-19|NC State|Murray State",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Little Rock|Jacksonville",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Berea|Northern Kentucky",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Buffalo|St. Bonaventure",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Maine|Quinnipiac",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Montana State|High Point",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Mary Baldwin|American",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Northeastern|Butler",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|North Park|SIU Edwardsville",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Robert Morris|Toledo",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|UMBC|Ohio State",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/",
+        "https://www.landgrantholyland.com/ohio-state-mens-basketball/126569/ohio-state-torches-the-nets-blows-out-umbc-101-62"
+      ]
+    },
+    {
+      "key": "2026-11-19|Charleston|Drake",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Tulane|Louisiana Tech",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Eureka|Illinois State",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Georgia Southern|Houston Christian",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Mayville State|North Dakota",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Southeast Missouri State|St. Thomas (MN)",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Stetson|Louisville",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Southern Utah|Texas",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Texas A&M|TCU",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/",
+        "https://www.cbssports.com/college-basketball/news/texas-a-m-rallies-past-tcu-in-ot-to-stay-unbeaten-at-6-0/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Rutgers|UNLV",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Wisconsin|Seton Hall",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Oregon|Oregon State",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|UC Santa Barbara|Pepperdine",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Southern Miss|Grambling State",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|UTEP|New Mexico State",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Utah Tech|Washington",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Northwest Indian|Portland State",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Sacramento State|Stanford",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|East Texas A&M|California",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|VCU|Santa Clara",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Houston|Kansas",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/",
+        "https://www.cbssports.com/college-basketball/news/houston-holds-off-kansas-rally-to-win-players-era-title/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Tarleton State|USC",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    }
+  ],
+  "reported_games": [
+    {
+      "key": "2026-11-19|Florida|West Virginia",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Notre Dame|Auburn",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/",
+        "https://auburntigers.com/news/2026/11/19/auburn-falls-to-notre-dame-78-73-in-las-vegas"
+      ]
+    },
+    {
+      "key": "2026-11-19|NC State|Murray State",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Little Rock|Jacksonville",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Berea|Northern Kentucky",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Buffalo|St. Bonaventure",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Maine|Quinnipiac",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Montana State|High Point",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Mary Baldwin|American",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Northeastern|Butler",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|North Park|SIU Edwardsville",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Robert Morris|Toledo",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|UMBC|Ohio State",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/",
+        "https://www.landgrantholyland.com/ohio-state-mens-basketball/126569/ohio-state-torches-the-nets-blows-out-umbc-101-62"
+      ]
+    },
+    {
+      "key": "2026-11-19|Charleston|Drake",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Tulane|Louisiana Tech",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Eureka|Illinois State",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Georgia Southern|Houston Christian",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Mayville State|North Dakota",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Southeast Missouri State|St. Thomas (MN)",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Stetson|Louisville",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Southern Utah|Texas",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Texas A&M|TCU",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/",
+        "https://www.cbssports.com/college-basketball/news/texas-a-m-rallies-past-tcu-in-ot-to-stay-unbeaten-at-6-0/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Rutgers|UNLV",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Wisconsin|Seton Hall",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Oregon|Oregon State",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|UC Santa Barbara|Pepperdine",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Southern Miss|Grambling State",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|UTEP|New Mexico State",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Utah Tech|Washington",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Northwest Indian|Portland State",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Sacramento State|Stanford",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|East Texas A&M|California",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|VCU|Santa Clara",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Houston|Kansas",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/",
+        "https://www.cbssports.com/college-basketball/news/houston-holds-off-kansas-rally-to-win-players-era-title/"
+      ]
+    },
+    {
+      "key": "2026-11-19|Tarleton State|USC",
+      "status": "final",
+      "sources": [
+        "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
+      ]
+    }
+  ],
+  "today_expected_games": [
+    "Averett|William & Mary",
+    "Green Bay|Florida State",
+    "Bloomfield|Maryland Eastern Shore",
+    "Temple|Middle Tennessee",
+    "Oklahoma State|Minnesota",
+    "UAB|George Washington",
+    "Western Illinois|Albany",
+    "Indiana State|Stephen F. Austin",
+    "Northwestern|Virginia Tech",
+    "South Dakota State|Idaho State",
+    "Rhode Island|Liberty",
+    "Manhattan|Miami (FL)",
+    "Dayton|Utah",
+    "UT Martin|Southern Illinois",
+    "Mercyhurst|Canisius",
+    "Delaware|Cal State Northridge",
+    "West Virginia Tech|Akron",
+    "Worcester State|Bryant",
+    "North Texas|Appalachian State",
+    "Murray State|Wisconsin",
+    "Central Baptist|Incarnate Word",
+    "Bellarmine|Eastern Kentucky",
+    "Southeastern Louisiana|Kennesaw State",
+    "South Carolina State|The Citadel",
+    "Western Kentucky|Richmond",
+    "Monmouth|Princeton",
+    "Georgia State|Jacksonville State",
+    "Kansas City|Iona",
+    "Paine|West Georgia",
+    "Wagner|Maryland",
+    "Loyola Maryland|Virginia",
+    "Saint Joseph's|Drexel",
+    "Harvard|Holy Cross",
+    "Niagara|Delaware State",
+    "Western Michigan|Mount St. Mary's",
+    "Central Michigan|Pittsburgh",
+    "Oakland|Purdue",
+    "Coastal Carolina|Tennessee",
+    "Iowa|Xavier",
+    "Tulsa|Mississippi State",
+    "UT Arlington|Northwestern State",
+    "Lipscomb|Alabama A&M",
+    "West Coast Baptist|Pepperdine",
+    "Neumann|Lehigh",
+    "Mississippi Valley State|Arkansas",
+    "East Carolina|Utah Valley",
+    "Campbell|Kansas State",
+    "UCF|Vanderbilt",
+    "South Alabama|SMU",
+    "Le Moyne|Missouri",
+    "Kentucky|Indiana",
+    "Georgia|Georgia Tech",
+    "Marshall|North Carolina",
+    "Eastern Illinois|Illinois",
+    "Sam Houston|Boise State",
+    "Cal State Bakersfield|Idaho",
+    "NC State|Seton Hall",
+    "Alabama State|Fresno State",
+    "Saint Louis|Saint Mary's"
+  ],
+  "today_reported_games": [
+    "Averett|William & Mary",
+    "Green Bay|Florida State",
+    "Bloomfield|Maryland Eastern Shore",
+    "Temple|Middle Tennessee",
+    "Oklahoma State|Minnesota",
+    "UAB|George Washington",
+    "Western Illinois|Albany",
+    "Indiana State|Stephen F. Austin",
+    "Northwestern|Virginia Tech",
+    "South Dakota State|Idaho State",
+    "Rhode Island|Liberty",
+    "Manhattan|Miami (FL)",
+    "Dayton|Utah",
+    "UT Martin|Southern Illinois",
+    "Mercyhurst|Canisius",
+    "Delaware|Cal State Northridge",
+    "West Virginia Tech|Akron",
+    "Worcester State|Bryant",
+    "North Texas|Appalachian State",
+    "Murray State|Wisconsin",
+    "Central Baptist|Incarnate Word",
+    "Bellarmine|Eastern Kentucky",
+    "Southeastern Louisiana|Kennesaw State",
+    "South Carolina State|The Citadel",
+    "Western Kentucky|Richmond",
+    "Monmouth|Princeton",
+    "Georgia State|Jacksonville State",
+    "Kansas City|Iona",
+    "Paine|West Georgia",
+    "Wagner|Maryland",
+    "Loyola Maryland|Virginia",
+    "Saint Joseph's|Drexel",
+    "Harvard|Holy Cross",
+    "Niagara|Delaware State",
+    "Western Michigan|Mount St. Mary's",
+    "Central Michigan|Pittsburgh",
+    "Oakland|Purdue",
+    "Coastal Carolina|Tennessee",
+    "Iowa|Xavier",
+    "Tulsa|Mississippi State",
+    "UT Arlington|Northwestern State",
+    "Lipscomb|Alabama A&M",
+    "West Coast Baptist|Pepperdine",
+    "Neumann|Lehigh",
+    "Mississippi Valley State|Arkansas",
+    "East Carolina|Utah Valley",
+    "Campbell|Kansas State",
+    "UCF|Vanderbilt",
+    "South Alabama|SMU",
+    "Le Moyne|Missouri",
+    "Kentucky|Indiana",
+    "Georgia|Georgia Tech",
+    "Marshall|North Carolina",
+    "Eastern Illinois|Illinois",
+    "Sam Houston|Boise State",
+    "Cal State Bakersfield|Idaho",
+    "NC State|Seton Hall",
+    "Alabama State|Fresno State",
+    "Saint Louis|Saint Mary's"
+  ],
+  "coverage_status": "PROVISIONAL: CBS 35 finals transcribed; ESPN/NCAA independent national matchup-set reconciliation not completed; 4 have separate result corroboration; today CBS 59 matchups not fully crosschecked against ESPN.",
+  "source_notes": [
+    "https://www.cbssports.com/college-basketball/schedule/ALL/20261120/",
+    "https://www.4basketball.com/scores/college-men/"
+  ]
+}
