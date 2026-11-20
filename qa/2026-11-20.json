@@ -252,6 +252,14 @@
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
       ]
+    },
+    {
+      "key": "2026-11-19|Tusculum (non-D-I)|North Alabama",
+      "status": "final",
+      "sources": [
+        "https://roarlions.com/boxscore.aspx?id=5605&path=mbball",
+        "https://www.cbssports.com/college-basketball/news/drey-carter-scores-21-to-lead-north-alabama-past-tusculum-74-67/"
+      ]
     }
   ],
   "reported_games": [
@@ -503,6 +511,14 @@
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261119/"
       ]
+    },
+    {
+      "key": "2026-11-19|Tusculum (non-D-I)|North Alabama",
+      "status": "final",
+      "sources": [
+        "https://roarlions.com/boxscore.aspx?id=5605&path=mbball",
+        "https://www.cbssports.com/college-basketball/news/drey-carter-scores-21-to-lead-north-alabama-past-tusculum-74-67/"
+      ]
     }
   ],
   "today_expected_games": [
@@ -627,7 +643,7 @@
     "Alabama State|Fresno State",
     "Saint Louis|Saint Mary's"
   ],
-  "coverage_status": "PROVISIONAL: CBS 35 finals transcribed; ESPN/NCAA independent national matchup-set reconciliation not completed; 4 have separate result corroboration; today CBS 59 matchups not fully crosschecked against ESPN.",
+  "coverage_status": "PROVISIONAL: 35 CBS finals plus Tusculum–North Alabama official box = 36 results, matching independent 36-game index count; exact ESPN/NCAA set and 31 remaining second-source score verifications still outstanding; 59 CBS Friday matchups.",
   "source_notes": [
     "https://www.cbssports.com/college-basketball/schedule/ALL/20261120/",
     "https://www.4basketball.com/scores/college-men/"
