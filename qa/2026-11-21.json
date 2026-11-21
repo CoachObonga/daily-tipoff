@@ -10,11 +10,12 @@
       "home": "William & Mary",
       "away_pts": 39,
       "home_pts": 85,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Averett|William & Mary"
     },
     {
       "date": "2026-11-20",
@@ -22,11 +23,12 @@
       "home": "Maryland Eastern Shore",
       "away_pts": 77,
       "home_pts": 87,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Bloomfield|Maryland Eastern Shore"
     },
     {
       "date": "2026-11-20",
@@ -34,11 +36,12 @@
       "home": "Florida State",
       "away_pts": 63,
       "home_pts": 87,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Green Bay|Florida State"
     },
     {
       "date": "2026-11-20",
@@ -46,11 +49,12 @@
       "home": "Minnesota",
       "away_pts": 70,
       "home_pts": 85,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Oklahoma State|Minnesota"
     },
     {
       "date": "2026-11-20",
@@ -58,11 +62,12 @@
       "home": "Middle Tennessee",
       "away_pts": 85,
       "home_pts": 76,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Temple|Middle Tennessee"
     },
     {
       "date": "2026-11-20",
@@ -70,11 +75,12 @@
       "home": "George Washington",
       "away_pts": 81,
       "home_pts": 76,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|UAB|George Washington"
     },
     {
       "date": "2026-11-20",
@@ -82,11 +88,12 @@
       "home": "Stephen F. Austin",
       "away_pts": 76,
       "home_pts": 86,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Indiana State|Stephen F. Austin"
     },
     {
       "date": "2026-11-20",
@@ -94,11 +101,12 @@
       "home": "Virginia Tech",
       "away_pts": 70,
       "home_pts": 87,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Northwestern|Virginia Tech"
     },
     {
       "date": "2026-11-20",
@@ -106,11 +114,12 @@
       "home": "UAlbany",
       "away_pts": 60,
       "home_pts": 65,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Western Illinois|UAlbany"
     },
     {
       "date": "2026-11-20",
@@ -118,11 +127,12 @@
       "home": "Idaho State",
       "away_pts": 71,
       "home_pts": 86,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|South Dakota State|Idaho State"
     },
     {
       "date": "2026-11-20",
@@ -130,11 +140,12 @@
       "home": "Liberty",
       "away_pts": 68,
       "home_pts": 71,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Rhode Island|Liberty"
     },
     {
       "date": "2026-11-20",
@@ -142,11 +153,12 @@
       "home": "Miami (FL)",
       "away_pts": 54,
       "home_pts": 106,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Manhattan|Miami (FL)"
     },
     {
       "date": "2026-11-20",
@@ -154,11 +166,12 @@
       "home": "Canisius",
       "away_pts": 56,
       "home_pts": 63,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Mercyhurst|Canisius"
     },
     {
       "date": "2026-11-20",
@@ -166,11 +179,12 @@
       "home": "Southern Illinois",
       "away_pts": 76,
       "home_pts": 73,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|UT Martin|Southern Illinois"
     },
     {
       "date": "2026-11-20",
@@ -178,11 +192,12 @@
       "home": "Utah",
       "away_pts": 63,
       "home_pts": 46,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Dayton|Utah"
     },
     {
       "date": "2026-11-20",
@@ -190,11 +205,12 @@
       "home": "Cal State Northridge",
       "away_pts": 97,
       "home_pts": 92,
-      "status": "OT",
+      "status": "ot",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Delaware|Cal State Northridge"
     },
     {
       "date": "2026-11-20",
@@ -202,11 +218,12 @@
       "home": "Bryant",
       "away_pts": 61,
       "home_pts": 75,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Worcester State|Bryant"
     },
     {
       "date": "2026-11-20",
@@ -214,11 +231,12 @@
       "home": "Akron",
       "away_pts": 71,
       "home_pts": 116,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|West Virginia Tech|Akron"
     },
     {
       "date": "2026-11-20",
@@ -226,11 +244,12 @@
       "home": "Appalachian State",
       "away_pts": 75,
       "home_pts": 81,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|North Texas|Appalachian State"
     },
     {
       "date": "2026-11-20",
@@ -238,11 +257,12 @@
       "home": "Eastern Kentucky",
       "away_pts": 79,
       "home_pts": 76,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Bellarmine|Eastern Kentucky"
     },
     {
       "date": "2026-11-20",
@@ -250,11 +270,12 @@
       "home": "Incarnate Word",
       "away_pts": 71,
       "home_pts": 120,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Central Baptist|Incarnate Word"
     },
     {
       "date": "2026-11-20",
@@ -262,11 +283,12 @@
       "home": "Pittsburgh",
       "away_pts": 82,
       "home_pts": 104,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Central Michigan|Pittsburgh"
     },
     {
       "date": "2026-11-20",
@@ -274,11 +296,12 @@
       "home": "Tennessee",
       "away_pts": 51,
       "home_pts": 78,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Coastal Carolina|Tennessee"
     },
     {
       "date": "2026-11-20",
@@ -286,11 +309,12 @@
       "home": "Jacksonville State",
       "away_pts": 77,
       "home_pts": 82,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Georgia State|Jacksonville State"
     },
     {
       "date": "2026-11-20",
@@ -298,11 +322,12 @@
       "home": "Holy Cross",
       "away_pts": 77,
       "home_pts": 65,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Harvard|Holy Cross"
     },
     {
       "date": "2026-11-20",
@@ -310,11 +335,12 @@
       "home": "Virginia",
       "away_pts": 61,
       "home_pts": 103,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Loyola Maryland|Virginia"
     },
     {
       "date": "2026-11-20",
@@ -322,11 +348,12 @@
       "home": "Princeton",
       "away_pts": 64,
       "home_pts": 75,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Monmouth|Princeton"
     },
     {
       "date": "2026-11-20",
@@ -334,11 +361,12 @@
       "home": "Wisconsin",
       "away_pts": 70,
       "home_pts": 53,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Murray State|Wisconsin"
     },
     {
       "date": "2026-11-20",
@@ -346,11 +374,12 @@
       "home": "Delaware State",
       "away_pts": 103,
       "home_pts": 101,
-      "status": "2OT",
+      "status": "2ot",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Niagara|Delaware State"
     },
     {
       "date": "2026-11-20",
@@ -358,11 +387,12 @@
       "home": "Purdue",
       "away_pts": 49,
       "home_pts": 95,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Oakland|Purdue"
     },
     {
       "date": "2026-11-20",
@@ -370,11 +400,12 @@
       "home": "The Citadel",
       "away_pts": 63,
       "home_pts": 79,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|South Carolina State|The Citadel"
     },
     {
       "date": "2026-11-20",
@@ -382,11 +413,12 @@
       "home": "Kennesaw State",
       "away_pts": 59,
       "home_pts": 96,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Southeastern Louisiana|Kennesaw State"
     },
     {
       "date": "2026-11-20",
@@ -394,11 +426,12 @@
       "home": "Drexel",
       "away_pts": 64,
       "home_pts": 75,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Saint Joseph's|Drexel"
     },
     {
       "date": "2026-11-20",
@@ -406,11 +439,12 @@
       "home": "Iona",
       "away_pts": 61,
       "home_pts": 62,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Kansas City|Iona"
     },
     {
       "date": "2026-11-20",
@@ -418,11 +452,12 @@
       "home": "Maryland",
       "away_pts": 45,
       "home_pts": 62,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Wagner|Maryland"
     },
     {
       "date": "2026-11-20",
@@ -430,11 +465,12 @@
       "home": "Richmond",
       "away_pts": 82,
       "home_pts": 68,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Western Kentucky|Richmond"
     },
     {
       "date": "2026-11-20",
@@ -442,11 +478,12 @@
       "home": "Mount St. Mary's",
       "away_pts": 73,
       "home_pts": 67,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Western Michigan|Mount St. Mary's"
     },
     {
       "date": "2026-11-20",
@@ -454,11 +491,12 @@
       "home": "Xavier",
       "away_pts": 83,
       "home_pts": 65,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Iowa|Xavier"
     },
     {
       "date": "2026-11-20",
@@ -466,11 +504,12 @@
       "home": "Mississippi State",
       "away_pts": 61,
       "home_pts": 72,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Tulsa|Mississippi State"
     },
     {
       "date": "2026-11-20",
@@ -478,11 +517,12 @@
       "home": "Northwestern State",
       "away_pts": 69,
       "home_pts": 62,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|UT Arlington|Northwestern State"
     },
     {
       "date": "2026-11-20",
@@ -490,11 +530,12 @@
       "home": "Kansas State",
       "away_pts": 80,
       "home_pts": 70,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Campbell|Kansas State"
     },
     {
       "date": "2026-11-20",
@@ -502,11 +543,12 @@
       "home": "Utah Valley",
       "away_pts": 79,
       "home_pts": 90,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|East Carolina|Utah Valley"
     },
     {
       "date": "2026-11-20",
@@ -514,11 +556,12 @@
       "home": "Missouri",
       "away_pts": 64,
       "home_pts": 91,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Le Moyne|Missouri"
     },
     {
       "date": "2026-11-20",
@@ -526,11 +569,12 @@
       "home": "Alabama A&M",
       "away_pts": 69,
       "home_pts": 85,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Lipscomb|Alabama A&M"
     },
     {
       "date": "2026-11-20",
@@ -538,11 +582,12 @@
       "home": "Arkansas",
       "away_pts": 48,
       "home_pts": 92,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Mississippi Valley State|Arkansas"
     },
     {
       "date": "2026-11-20",
@@ -550,11 +595,12 @@
       "home": "Lehigh",
       "away_pts": 38,
       "home_pts": 79,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Neumann|Lehigh"
     },
     {
       "date": "2026-11-20",
@@ -562,11 +608,12 @@
       "home": "SMU",
       "away_pts": 55,
       "home_pts": 101,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|South Alabama|SMU"
     },
     {
       "date": "2026-11-20",
@@ -574,12 +621,13 @@
       "home": "Vanderbilt",
       "away_pts": 74,
       "home_pts": 82,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/",
         "https://ucfknights.com/news/2026/11/20/ucf-battles-back-but-falls-short-at-no-15-vanderbilt"
       ],
-      "verification": "two_sources"
+      "verification": "two_sources",
+      "key": "2026-11-20|UCF|Vanderbilt"
     },
     {
       "date": "2026-11-20",
@@ -587,12 +635,13 @@
       "home": "Georgia Tech",
       "away_pts": 88,
       "home_pts": 82,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/",
         "https://www.fromtherumbleseat.com/georgia-tech-basketball/37743/jackets-fall-88-82-in-cofh-mens-basketall-edition"
       ],
-      "verification": "two_sources"
+      "verification": "two_sources",
+      "key": "2026-11-20|Georgia|Georgia Tech"
     },
     {
       "date": "2026-11-20",
@@ -600,12 +649,13 @@
       "home": "Indiana",
       "away_pts": 76,
       "home_pts": 90,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/",
         "https://www.crimsonquarry.com/indiana-basketball/32555/indiana-mens-basketball-beats-kentucky-90-76"
       ],
-      "verification": "two_sources"
+      "verification": "two_sources",
+      "key": "2026-11-20|Kentucky|Indiana"
     },
     {
       "date": "2026-11-20",
@@ -613,11 +663,12 @@
       "home": "Pepperdine",
       "away_pts": 54,
       "home_pts": 140,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|West Coast Baptist|Pepperdine"
     },
     {
       "date": "2026-11-20",
@@ -625,11 +676,12 @@
       "home": "Idaho",
       "away_pts": 81,
       "home_pts": 84,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Cal State Bakersfield|Idaho"
     },
     {
       "date": "2026-11-20",
@@ -637,11 +689,12 @@
       "home": "Illinois",
       "away_pts": 52,
       "home_pts": 114,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Eastern Illinois|Illinois"
     },
     {
       "date": "2026-11-20",
@@ -649,11 +702,12 @@
       "home": "North Carolina",
       "away_pts": 72,
       "home_pts": 88,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Marshall|North Carolina"
     },
     {
       "date": "2026-11-20",
@@ -661,11 +715,12 @@
       "home": "Boise State",
       "away_pts": 83,
       "home_pts": 69,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Sam Houston|Boise State"
     },
     {
       "date": "2026-11-20",
@@ -673,11 +728,12 @@
       "home": "Seton Hall",
       "away_pts": 81,
       "home_pts": 87,
-      "status": "OT",
+      "status": "ot",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|NC State|Seton Hall"
     },
     {
       "date": "2026-11-20",
@@ -685,11 +741,12 @@
       "home": "Fresno State",
       "away_pts": 68,
       "home_pts": 80,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Alabama State|Fresno State"
     },
     {
       "date": "2026-11-20",
@@ -697,11 +754,12 @@
       "home": "Saint Mary's",
       "away_pts": 78,
       "home_pts": 95,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/"
       ],
-      "verification": "single_source"
+      "verification": "single_source",
+      "key": "2026-11-20|Saint Louis|Saint Mary's"
     }
   ],
   "reported_games": [
@@ -711,11 +769,12 @@
       "home": "Vanderbilt",
       "away_pts": 74,
       "home_pts": 82,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/",
         "https://ucfknights.com/news/2026/11/20/ucf-battles-back-but-falls-short-at-no-15-vanderbilt"
-      ]
+      ],
+      "key": "2026-11-20|UCF|Vanderbilt"
     },
     {
       "date": "2026-11-20",
@@ -723,11 +782,12 @@
       "home": "Georgia Tech",
       "away_pts": 88,
       "home_pts": 82,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/",
         "https://www.fromtherumbleseat.com/georgia-tech-basketball/37743/jackets-fall-88-82-in-cofh-mens-basketall-edition"
-      ]
+      ],
+      "key": "2026-11-20|Georgia|Georgia Tech"
     },
     {
       "date": "2026-11-20",
@@ -735,132 +795,133 @@
       "home": "Indiana",
       "away_pts": 76,
       "home_pts": 90,
-      "status": "Final",
+      "status": "final",
       "sources": [
         "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/",
         "https://www.crimsonquarry.com/indiana-basketball/32555/indiana-mens-basketball-beats-kentucky-90-76"
-      ]
+      ],
+      "key": "2026-11-20|Kentucky|Indiana"
     }
   ],
   "today_expected_games": [
-    "Siena @ Bucknell",
-    "South Carolina Upstate @ UNC Greensboro",
-    "Columbia @ Boston University",
-    "Detroit Mercy @ Michigan State",
-    "Denver @ Eastern Michigan",
-    "Kent State @ Cleveland State",
-    "Queens @ LSU",
-    "New Hampshire @ New Haven",
-    "Mercyhurst @ Western Illinois",
-    "Stony Brook @ Saint Peter's",
-    "Cornell @ Morgan State",
-    "Fordham @ Portland",
-    "Navy @ Rider",
-    "New Mexico @ Wichita State",
-    "Calumet College @ Purdue Fort Wayne",
-    "Lafayette @ Syracuse",
-    "Little Rock @ North Florida",
-    "Virginia-Lynchburg @ James Madison",
-    "Penn State Behrend @ Colgate",
-    "Northern Illinois @ Bowling Green",
-    "Western Carolina @ Wake Forest",
-    "UT Rio Grande Valley @ Austin Peay",
-    "Drake @ Missouri State",
-    "St. Thomas (MN) @ Milwaukee",
-    "Middle Tennessee @ Indiana State",
-    "Army @ Binghamton",
-    "Justice College @ Northern Colorado",
-    "Penn @ La Salle",
-    "Central Arkansas @ Jacksonville",
-    "Clinton College @ Furman",
-    "South Florida @ George Mason",
-    "UAlbany @ Canisius",
-    "Longwood @ East Tennessee State",
-    "San Diego @ UC Irvine",
-    "Winthrop @ Wofford",
-    "Northeastern @ Stonehill",
-    "Air Force @ UTSA",
-    "Nicholls @ Southern Miss",
-    "Southern Illinois @ East Carolina",
-    "Coppin State @ Georgetown",
-    "UNC Wilmington @ Norfolk State",
-    "Maine @ Massachusetts",
-    "Brown @ Vermont",
-    "Northern Arizona @ Cal Poly",
-    "Loyola Marymount @ California Baptist",
-    "Charleston Southern @ Mercer",
-    "Radford @ Chattanooga",
-    "Gardner-Webb @ VMI",
-    "Michigan @ Villanova",
-    "Morehead State @ Elon",
-    "Presbyterian @ Tennessee Tech",
-    "Southwestern Adventist @ Abilene Christian",
-    "Texas A&M Corpus Christi @ Oral Roberts",
-    "Valparaiso @ Troy",
-    "LSU New Orleans @ Texas Southern",
-    "Bradley @ Pacific",
-    "Duke @ Washington State"
+    "Siena|Bucknell",
+    "South Carolina Upstate|UNC Greensboro",
+    "Columbia|Boston University",
+    "Detroit Mercy|Michigan State",
+    "Denver|Eastern Michigan",
+    "Kent State|Cleveland State",
+    "Queens|LSU",
+    "New Hampshire|New Haven",
+    "Mercyhurst|Western Illinois",
+    "Stony Brook|Saint Peter's",
+    "Cornell|Morgan State",
+    "Fordham|Portland",
+    "Navy|Rider",
+    "New Mexico|Wichita State",
+    "Calumet College|Purdue Fort Wayne",
+    "Lafayette|Syracuse",
+    "Little Rock|North Florida",
+    "Virginia-Lynchburg|James Madison",
+    "Penn State Behrend|Colgate",
+    "Northern Illinois|Bowling Green",
+    "Western Carolina|Wake Forest",
+    "UT Rio Grande Valley|Austin Peay",
+    "Drake|Missouri State",
+    "St. Thomas (MN)|Milwaukee",
+    "Middle Tennessee|Indiana State",
+    "Army|Binghamton",
+    "Justice College|Northern Colorado",
+    "Penn|La Salle",
+    "Central Arkansas|Jacksonville",
+    "Clinton College|Furman",
+    "South Florida|George Mason",
+    "UAlbany|Canisius",
+    "Longwood|East Tennessee State",
+    "San Diego|UC Irvine",
+    "Winthrop|Wofford",
+    "Northeastern|Stonehill",
+    "Air Force|UTSA",
+    "Nicholls|Southern Miss",
+    "Southern Illinois|East Carolina",
+    "Coppin State|Georgetown",
+    "UNC Wilmington|Norfolk State",
+    "Maine|Massachusetts",
+    "Brown|Vermont",
+    "Northern Arizona|Cal Poly",
+    "Loyola Marymount|California Baptist",
+    "Charleston Southern|Mercer",
+    "Radford|Chattanooga",
+    "Gardner-Webb|VMI",
+    "Michigan|Villanova",
+    "Morehead State|Elon",
+    "Presbyterian|Tennessee Tech",
+    "Southwestern Adventist|Abilene Christian",
+    "Texas A&M Corpus Christi|Oral Roberts",
+    "Valparaiso|Troy",
+    "LSU New Orleans|Texas Southern",
+    "Bradley|Pacific",
+    "Duke|Washington State"
   ],
   "today_reported_games": [
-    "Siena @ Bucknell",
-    "South Carolina Upstate @ UNC Greensboro",
-    "Columbia @ Boston University",
-    "Detroit Mercy @ Michigan State",
-    "Denver @ Eastern Michigan",
-    "Kent State @ Cleveland State",
-    "Queens @ LSU",
-    "New Hampshire @ New Haven",
-    "Mercyhurst @ Western Illinois",
-    "Stony Brook @ Saint Peter's",
-    "Cornell @ Morgan State",
-    "Fordham @ Portland",
-    "Navy @ Rider",
-    "New Mexico @ Wichita State",
-    "Calumet College @ Purdue Fort Wayne",
-    "Lafayette @ Syracuse",
-    "Little Rock @ North Florida",
-    "Virginia-Lynchburg @ James Madison",
-    "Penn State Behrend @ Colgate",
-    "Northern Illinois @ Bowling Green",
-    "Western Carolina @ Wake Forest",
-    "UT Rio Grande Valley @ Austin Peay",
-    "Drake @ Missouri State",
-    "St. Thomas (MN) @ Milwaukee",
-    "Middle Tennessee @ Indiana State",
-    "Army @ Binghamton",
-    "Justice College @ Northern Colorado",
-    "Penn @ La Salle",
-    "Central Arkansas @ Jacksonville",
-    "Clinton College @ Furman",
-    "South Florida @ George Mason",
-    "UAlbany @ Canisius",
-    "Longwood @ East Tennessee State",
-    "San Diego @ UC Irvine",
-    "Winthrop @ Wofford",
-    "Northeastern @ Stonehill",
-    "Air Force @ UTSA",
-    "Nicholls @ Southern Miss",
-    "Southern Illinois @ East Carolina",
-    "Coppin State @ Georgetown",
-    "UNC Wilmington @ Norfolk State",
-    "Maine @ Massachusetts",
-    "Brown @ Vermont",
-    "Northern Arizona @ Cal Poly",
-    "Loyola Marymount @ California Baptist",
-    "Charleston Southern @ Mercer",
-    "Radford @ Chattanooga",
-    "Gardner-Webb @ VMI",
-    "Michigan @ Villanova",
-    "Morehead State @ Elon",
-    "Presbyterian @ Tennessee Tech",
-    "Southwestern Adventist @ Abilene Christian",
-    "Texas A&M Corpus Christi @ Oral Roberts",
-    "Valparaiso @ Troy",
-    "LSU New Orleans @ Texas Southern",
-    "Bradley @ Pacific",
-    "Duke @ Washington State"
+    "Siena|Bucknell",
+    "South Carolina Upstate|UNC Greensboro",
+    "Columbia|Boston University",
+    "Detroit Mercy|Michigan State",
+    "Denver|Eastern Michigan",
+    "Kent State|Cleveland State",
+    "Queens|LSU",
+    "New Hampshire|New Haven",
+    "Mercyhurst|Western Illinois",
+    "Stony Brook|Saint Peter's",
+    "Cornell|Morgan State",
+    "Fordham|Portland",
+    "Navy|Rider",
+    "New Mexico|Wichita State",
+    "Calumet College|Purdue Fort Wayne",
+    "Lafayette|Syracuse",
+    "Little Rock|North Florida",
+    "Virginia-Lynchburg|James Madison",
+    "Penn State Behrend|Colgate",
+    "Northern Illinois|Bowling Green",
+    "Western Carolina|Wake Forest",
+    "UT Rio Grande Valley|Austin Peay",
+    "Drake|Missouri State",
+    "St. Thomas (MN)|Milwaukee",
+    "Middle Tennessee|Indiana State",
+    "Army|Binghamton",
+    "Justice College|Northern Colorado",
+    "Penn|La Salle",
+    "Central Arkansas|Jacksonville",
+    "Clinton College|Furman",
+    "South Florida|George Mason",
+    "UAlbany|Canisius",
+    "Longwood|East Tennessee State",
+    "San Diego|UC Irvine",
+    "Winthrop|Wofford",
+    "Northeastern|Stonehill",
+    "Air Force|UTSA",
+    "Nicholls|Southern Miss",
+    "Southern Illinois|East Carolina",
+    "Coppin State|Georgetown",
+    "UNC Wilmington|Norfolk State",
+    "Maine|Massachusetts",
+    "Brown|Vermont",
+    "Northern Arizona|Cal Poly",
+    "Loyola Marymount|California Baptist",
+    "Charleston Southern|Mercer",
+    "Radford|Chattanooga",
+    "Gardner-Webb|VMI",
+    "Michigan|Villanova",
+    "Morehead State|Elon",
+    "Presbyterian|Tennessee Tech",
+    "Southwestern Adventist|Abilene Christian",
+    "Texas A&M Corpus Christi|Oral Roberts",
+    "Valparaiso|Troy",
+    "LSU New Orleans|Texas Southern",
+    "Bradley|Pacific",
+    "Duke|Washington State"
   ],
-  "coverage_status": "PROVISIONAL: 58 CBS-listed finals transcribed, only 3 independently corroborated; ESPN/NCAA national matchup set unavailable; 57 Saturday games transcribed from CBS but second independent schedule not reconciled.",
+  "coverage_status": "PROVISIONAL: 58 CBS finals transcribed; 3 independently corroborated; 55 not double-verified. National ESPN/NCAA expected set not independently enumerated. 57 CBS Saturday scheduled games not fully reconciled.",
   "source_notes": [
     "https://www.cbssports.com/college-basketball/scoreboard/ALL/20261120/",
     "https://www.cbssports.com/college-basketball/schedule/ALL/20261121/",
