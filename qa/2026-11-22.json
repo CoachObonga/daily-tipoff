@@ -1,0 +1,849 @@
+{
+  "issue_date": "2026-11-22",
+  "results_date": "2026-11-21",
+  "issue_number": 20,
+  "latest_poll_date": "2026-11-16",
+  "expected_games": [
+    {
+      "key": "2026-11-21|Siena|Bucknell",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|South Carolina Upstate|UNC Greensboro",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Columbia|Boston University",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Detroit Mercy|Michigan State",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Queens|LSU",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Kent State|Cleveland State",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Denver|Eastern Michigan",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|New Hampshire|New Haven",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Mercyhurst|Western Illinois",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Virginia Lynchburg|James Madison",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Northern Illinois|Bowling Green",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Navy|Rider",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Lafayette|Syracuse",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Western Carolina|Wake Forest",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Little Rock|North Florida",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Fordham|Portland",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Stony Brook|Saint Peter's",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Calumet St. Joseph|Purdue Fort Wayne",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Penn State Behrend|Colgate",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|New Mexico|Wichita State",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Cornell|Morgan State",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|UT Rio Grande Valley|Austin Peay",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Drake|Missouri State",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|St. Thomas|Milwaukee",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Middle Tennessee|Indiana State",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Army|Binghamton",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Albany|Canisius",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Justice College|Northern Colorado",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Longwood|East Tennessee State",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Clinton College|Furman",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|South Florida|George Mason",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Penn|La Salle",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Central Arkansas|Jacksonville",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|UC Irvine|San Diego",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Winthrop|Wofford",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Northeastern|Stonehill",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Nicholls|Southern Miss",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Air Force|UTSA",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Southern Illinois|East Carolina",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Coppin State|Georgetown",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Maine|UMass",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|UNC Wilmington|Norfolk State",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Gardner-Webb|VMI",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Morehead State|Elon",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Michigan|Villanova",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Northern Arizona|Cal Poly",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|California Baptist|Loyola Marymount",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Charleston Southern|Mercer",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Radford|Chattanooga",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Brown|Vermont",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Presbyterian|Tennessee Tech",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Southwestern Adventist|Abilene Christian",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Washington State|Duke",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    }
+  ],
+  "reported_games": [
+    {
+      "key": "2026-11-21|Siena|Bucknell",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|South Carolina Upstate|UNC Greensboro",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Columbia|Boston University",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Detroit Mercy|Michigan State",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Queens|LSU",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Kent State|Cleveland State",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Denver|Eastern Michigan",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|New Hampshire|New Haven",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Mercyhurst|Western Illinois",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Virginia Lynchburg|James Madison",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Northern Illinois|Bowling Green",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Navy|Rider",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Lafayette|Syracuse",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Western Carolina|Wake Forest",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Little Rock|North Florida",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Fordham|Portland",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Stony Brook|Saint Peter's",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Calumet St. Joseph|Purdue Fort Wayne",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Penn State Behrend|Colgate",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|New Mexico|Wichita State",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Cornell|Morgan State",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|UT Rio Grande Valley|Austin Peay",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Drake|Missouri State",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|St. Thomas|Milwaukee",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Middle Tennessee|Indiana State",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Army|Binghamton",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Albany|Canisius",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Justice College|Northern Colorado",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Longwood|East Tennessee State",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Clinton College|Furman",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|South Florida|George Mason",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Penn|La Salle",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Central Arkansas|Jacksonville",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|UC Irvine|San Diego",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Winthrop|Wofford",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Northeastern|Stonehill",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Nicholls|Southern Miss",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Air Force|UTSA",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Southern Illinois|East Carolina",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Coppin State|Georgetown",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Maine|UMass",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|UNC Wilmington|Norfolk State",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Gardner-Webb|VMI",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Morehead State|Elon",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Michigan|Villanova",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21",
+        "https://villanova.com/news/2026/11/21/mens-basketball-wildcats-down-no-18-michigan-79-73.aspx"
+      ]
+    },
+    {
+      "key": "2026-11-21|Northern Arizona|Cal Poly",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|California Baptist|Loyola Marymount",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Charleston Southern|Mercer",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Radford|Chattanooga",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Brown|Vermont",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Presbyterian|Tennessee Tech",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Southwestern Adventist|Abilene Christian",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21"
+      ]
+    },
+    {
+      "key": "2026-11-21|Washington State|Duke",
+      "status": "final",
+      "sources": [
+        "https://www.lunosport.com/college-basketball/2026-11-21",
+        "https://d3cin4duo2vkym.cloudfront.net/news/2026/11/22/mens-basketball-no-5-duke-moves-past-washington-state-78-74"
+      ]
+    }
+  ],
+  "today_expected_games": [
+    "Butler|Nebraska",
+    "Miami (Ohio)|UIC",
+    "Western Illinois|Canisius",
+    "Chicago State|Marquette",
+    "Lancaster Bible|UMBC",
+    "Towson|American",
+    "Northwestern|Dayton",
+    "Fairfield|LIU",
+    "Utah Tech|South Dakota",
+    "UMass Lowell|Cincinnati",
+    "Evansville|Memphis",
+    "San Diego|Fordham",
+    "Western Kentucky|George Washington",
+    "Duquesne|Wyoming",
+    "William & Mary|Youngstown State",
+    "New Mexico State|Robert Morris",
+    "Southern Indiana|Texas",
+    "Nicholls|Troy",
+    "West Florida|South Alabama",
+    "Mercyhurst|Albany",
+    "McNeese|Texas State",
+    "Oklahoma State|Virginia Tech",
+    "Alice Lloyd|Eastern Kentucky",
+    "Maryland Eastern Shore|IU Indianapolis",
+    "UC Irvine|Loyola Marymount",
+    "Richmond|Liberty",
+    "NJIT|Boston College",
+    "UNC Asheville|Samford",
+    "Cal State Fullerton|Portland State",
+    "Rice|Lamar",
+    "Milligan|Lipscomb",
+    "Temple|Stephen F. Austin",
+    "Valparaiso|Southern Miss",
+    "Minnesota|Utah",
+    "Delaware|UCLA",
+    "California Baptist|Portland",
+    "UAB|Rhode Island",
+    "Louisiana|USC",
+    "Menlo College|Saint Mary's",
+    "UT Martin|Utah Valley",
+    "Seattle|UC San Diego",
+    "San Jose State|Loyola Chicago"
+  ],
+  "today_reported_games": [
+    "Butler|Nebraska",
+    "Miami (Ohio)|UIC",
+    "Western Illinois|Canisius",
+    "Chicago State|Marquette",
+    "Lancaster Bible|UMBC",
+    "Towson|American",
+    "Northwestern|Dayton",
+    "Fairfield|LIU",
+    "Utah Tech|South Dakota",
+    "UMass Lowell|Cincinnati",
+    "Evansville|Memphis",
+    "San Diego|Fordham",
+    "Western Kentucky|George Washington",
+    "Duquesne|Wyoming",
+    "William & Mary|Youngstown State",
+    "New Mexico State|Robert Morris",
+    "Southern Indiana|Texas",
+    "Nicholls|Troy",
+    "West Florida|South Alabama",
+    "Mercyhurst|Albany",
+    "McNeese|Texas State",
+    "Oklahoma State|Virginia Tech",
+    "Alice Lloyd|Eastern Kentucky",
+    "Maryland Eastern Shore|IU Indianapolis",
+    "UC Irvine|Loyola Marymount",
+    "Richmond|Liberty",
+    "NJIT|Boston College",
+    "UNC Asheville|Samford",
+    "Cal State Fullerton|Portland State",
+    "Rice|Lamar",
+    "Milligan|Lipscomb",
+    "Temple|Stephen F. Austin",
+    "Valparaiso|Southern Miss",
+    "Minnesota|Utah",
+    "Delaware|UCLA",
+    "California Baptist|Portland",
+    "UAB|Rhode Island",
+    "Louisiana|USC",
+    "Menlo College|Saint Mary's",
+    "UT Martin|Utah Valley",
+    "Seattle|UC San Diego",
+    "San Jose State|Loyola Chicago"
+  ],
+  "coverage_status": "provisional",
+  "coverage_gaps": [
+    "Four matchups missing from 57-game LunoSport slate",
+    "Independent ESPN/NCAA enumeration inaccessible",
+    "Most results only one source",
+    "Today's schedule independently unreconciled"
+  ]
+}
