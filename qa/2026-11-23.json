@@ -5,539 +5,235 @@
   "latest_poll_date": "2026-11-16",
   "provisional": true,
   "coverage_gap": "National slate ~42; 32 transcribed; ESPN/NCAA inaccessible; 15 partial Monday lookahead",
-  "expected_games": [
-    {
-      "key": "2026-11-22|Butler|Nebraska",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|Miami (Ohio)|UIC",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|Chicago State|Marquette",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|Dayton|Northwestern",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|Fairfield|LIU",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|Towson|American",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|Western Illinois|Canisius",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|Lancaster Bible|UMBC",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|Evansville|Memphis",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|George Washington|Western Kentucky",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|Fordham|San Diego",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|William & Mary|Youngstown State",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|Wyoming|Duquesne",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|UMass Lowell|Cincinnati",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|Southern Indiana|Texas",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|West Florida|South Alabama",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|Troy|Nicholls",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|Virginia Tech|Oklahoma State",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|Mercyhurst|UAlbany",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|McNeese|Texas State",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|Alice Lloyd|Eastern Kentucky",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|NJIT|Boston College",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|UC Irvine|Loyola Marymount",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|Richmond|Liberty",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|Louisiana|USC",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|Utah|Minnesota",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|IU Indianapolis|Maryland Eastern Shore",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|UT Martin|Utah Valley",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|Cal State Fullerton|Portland State",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|UNC Asheville|Samford",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|Rice|Lamar",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    },
-    {
-      "key": "2026-11-22|Seattle|UC San Diego",
-      "status": "final",
-      "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
-      ]
-    }
-  ],
+  "expected_games": [],
   "reported_games": [
     {
       "key": "2026-11-22|Butler|Nebraska",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|Miami (Ohio)|UIC",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|Chicago State|Marquette",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|Dayton|Northwestern",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|Fairfield|LIU",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|Towson|American",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|Western Illinois|Canisius",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|Lancaster Bible|UMBC",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|Evansville|Memphis",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|George Washington|Western Kentucky",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|Fordham|San Diego",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|William & Mary|Youngstown State",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|Wyoming|Duquesne",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|UMass Lowell|Cincinnati",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|Southern Indiana|Texas",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://usiscreamingeagles.com/sports/mens-basketball/stats/2026-2027/university-of-texas/boxscore/15400",
+        "https://abcnews.com/amp/Sports/wireStory/vokietaitis-freeman-lead-6-texas-past-southern-indiana-138364612"
       ]
     },
     {
       "key": "2026-11-22|West Florida|South Alabama",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|Troy|Nicholls",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|Virginia Tech|Oklahoma State",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|Mercyhurst|UAlbany",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|McNeese|Texas State",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|Alice Lloyd|Eastern Kentucky",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|NJIT|Boston College",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|UC Irvine|Loyola Marymount",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|Richmond|Liberty",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|Louisiana|USC",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|Utah|Minnesota",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|IU Indianapolis|Maryland Eastern Shore",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|UT Martin|Utah Valley",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|Cal State Fullerton|Portland State",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|UNC Asheville|Samford",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|Rice|Lamar",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     },
     {
       "key": "2026-11-22|Seattle|UC San Diego",
       "status": "final",
       "sources": [
-        "https://www.on3.com/college/basketball/scoreboard/",
-        "https://saturdayanalytics.com/hoops/games/2026-11-22"
+        "https://www.on3.com/college/basketball/scoreboard/"
       ]
     }
   ],
-  "today_expected_games": [
-    "St. Bonaventure|Appalachian State",
-    "Northern Iowa|Davidson",
-    "Akron|Wright State",
-    "Ole Miss|Clemson",
-    "Washington|BYU",
-    "Yale|Belmont",
-    "Winthrop|Illinois",
-    "Denver|Kansas",
-    "VCU|Providence",
-    "Colorado State|Arizona",
-    "Long Beach State|FIU",
-    "IU South Bend|Eastern Illinois",
-    "Tulsa|Oregon State",
-    "Charlotte|Florida Gulf Coast",
-    "William & Mary|IU Indianapolis"
-  ],
+  "today_expected_games": [],
   "today_reported_games": [
     "St. Bonaventure|Appalachian State",
     "Northern Iowa|Davidson",
@@ -554,5 +250,9 @@
     "Tulsa|Oregon State",
     "Charlotte|Florida Gulf Coast",
     "William & Mary|IU Indianapolis"
-  ]
+  ],
+  "expected_games_source": "Independent national schedule could not be fully enumerated; approximately 42 games from Saturday Hoops",
+  "today_expected_games_source": "Independent complete Monday schedule unavailable",
+  "automated_validation": "NOT RUN",
+  "verified_official_box_count": 1
 }
